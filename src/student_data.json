@@ -1,0 +1,5226 @@
+[
+  {
+    "id": "44695",
+    "name": "MORANGAPALLY INDRASENA REDDY",
+    "branch": "CIV",
+    "gender": "M"
+  },
+  {
+    "id": "48595",
+    "name": "MANGADODDI PAVAN KALAYAN YADAV",
+    "branch": "CIV",
+    "gender": "M"
+  },
+  {
+    "id": "53975",
+    "name": "THUMMALA KEERTHANA",
+    "branch": "CIV",
+    "gender": "F"
+  },
+  {
+    "id": "56799",
+    "name": "CHALLAPALLY SATYA KALYAN",
+    "branch": "CIV",
+    "gender": "M"
+  },
+  { "id": "57901", "name": "KANTU VINODH", "branch": "CIV", "gender": "M" },
+  { "id": "63638", "name": "KENDRE KRISHNA", "branch": "CIV", "gender": "M" },
+  {
+    "id": "64182",
+    "name": "KOPPADI SAI VIJAY VENKAT",
+    "branch": "CIV",
+    "gender": "M"
+  },
+  {
+    "id": "65666",
+    "name": "MALOTHU SHYAM KUMAR",
+    "branch": "CIV",
+    "gender": "M"
+  },
+  {
+    "id": "66176",
+    "name": "KETHAVATH VIJAY KUMAR",
+    "branch": "CIV",
+    "gender": "M"
+  },
+  { "id": "66274", "name": "KOTTE BHARATH", "branch": "CIV", "gender": "M" },
+  {
+    "id": "67554",
+    "name": "DURGAM BHANU GOUD",
+    "branch": "CIV",
+    "gender": "M"
+  },
+  { "id": "68081", "name": "MALOTHU PAVAN", "branch": "CIV", "gender": "M" },
+  {
+    "id": "70638",
+    "name": "MEDIPALLY VAMSHI KRISHNA",
+    "branch": "CIV",
+    "gender": "M"
+  },
+  { "id": "71223", "name": "KANDALA TULASI", "branch": "CIV", "gender": "F" },
+  { "id": "73583", "name": "MOHD FEROZ", "branch": "CIV", "gender": "M" },
+  { "id": "74477", "name": "MERUPULA ESHWAR", "branch": "CIV", "gender": "M" },
+  {
+    "id": "76830",
+    "name": "GATTIGORLA NAGARAJU",
+    "branch": "CIV",
+    "gender": "M"
+  },
+  {
+    "id": "78901",
+    "name": "LOKA SAI KRISHNA REDDY",
+    "branch": "CIV",
+    "gender": "M"
+  },
+  { "id": "79700", "name": "MEDARAPU SNEHA", "branch": "CIV", "gender": "F" },
+  { "id": "81724", "name": "RAVULA NIKITHA", "branch": "CIV", "gender": "F" },
+  { "id": "86386", "name": "MANNE PRABHAS", "branch": "CIV", "gender": "M" },
+  { "id": "87645", "name": "BANALA SRAVANI", "branch": "CIV", "gender": "F" },
+  {
+    "id": "90816",
+    "name": "GUDURI SHARATH KUMAR GOUD",
+    "branch": "CIV",
+    "gender": "M"
+  },
+  {
+    "id": "92135",
+    "name": "MADDURI SANDEEP REDDY",
+    "branch": "CIV",
+    "gender": "M"
+  },
+  { "id": "98387", "name": "R NANI KARTHIK", "branch": "CIV", "gender": "M" },
+  { "id": "99103", "name": "BHUKYA ANIL", "branch": "CIV", "gender": "M" },
+  {
+    "id": "99824",
+    "name": "BRAHMANPALLY RAVALI",
+    "branch": "CIV",
+    "gender": "F"
+  },
+  { "id": "103492", "name": "KATTI RAJESH", "branch": "CIV", "gender": "M" },
+  {
+    "id": "115188",
+    "name": "BHUKYA ARUNKUMAR",
+    "branch": "CIV",
+    "gender": "M"
+  },
+  { "id": "117048", "name": "GAINI JAHNAVI", "branch": "CIV", "gender": "F" },
+  {
+    "id": "118368",
+    "name": "BASHIPANGU LAXMAN",
+    "branch": "CIV",
+    "gender": "M"
+  },
+  {
+    "id": "119339",
+    "name": "BADAVATH RAJENDAR",
+    "branch": "CIV",
+    "gender": "M"
+  },
+  {
+    "id": "119528",
+    "name": "VADTHYA SUDHAKAR",
+    "branch": "CIV",
+    "gender": "M"
+  },
+  {
+    "id": "119844",
+    "name": "THADANLA JAIKIRAN",
+    "branch": "CIV",
+    "gender": "M"
+  },
+  {
+    "id": "9553",
+    "name": "T S LAKSHMI KAMALA PRIYA MAHATHI",
+    "branch": "ECE",
+    "gender": "F"
+  },
+  { "id": "10686", "name": "P HARSHITHA", "branch": "ECE", "gender": "F" },
+  {
+    "id": "13457",
+    "name": "GANIPISETTI PRAVEEN",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  { "id": "14353", "name": "YARABATI SWATHI", "branch": "ECE", "gender": "F" },
+  {
+    "id": "14888",
+    "name": "VANGALA PAVAN KOWSTUB",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "17162",
+    "name": "GATTUPALLI VENKATA SUBRAMANYA SAIRAM SARMA",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "17596",
+    "name": "KOMMANA SETHU SAI TEJA",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  { "id": "18439", "name": "PATI ABHINAYA", "branch": "ECE", "gender": "F" },
+  { "id": "19021", "name": "NAGUBANDI ANANDI", "branch": "ECE", "gender": "F" },
+  {
+    "id": "19270",
+    "name": "ASHELLI PAVAN GOUD",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "19302",
+    "name": "MEKALA SAIBHARGAV",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "19646",
+    "name": "B CHANDRA SHEKHAR",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  { "id": "20532", "name": "PURMA VARSHITHA", "branch": "ECE", "gender": "F" },
+  { "id": "21092", "name": "CHEKUTI KALYAN", "branch": "ECE", "gender": "M" },
+  { "id": "21561", "name": "PALCHURI SRIKAR", "branch": "ECE", "gender": "M" },
+  {
+    "id": "22275",
+    "name": "JANJIRALA DURGA BHAVANI",
+    "branch": "ECE",
+    "gender": "F"
+  },
+  { "id": "22421", "name": "MALLELA SAKETH", "branch": "ECE", "gender": "M" },
+  { "id": "22797", "name": "PALTHI AKSHAY", "branch": "ECE", "gender": "M" },
+  { "id": "22871", "name": "LELLOUL GANESH", "branch": "ECE", "gender": "M" },
+  {
+    "id": "23100",
+    "name": "KOTAPATI SAI PRADEEP REDDY",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "23643",
+    "name": "P THANMAYEE GOWRI",
+    "branch": "ECE",
+    "gender": "F"
+  },
+  {
+    "id": "23770",
+    "name": "RAMISHETTY NITHIN",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  { "id": "23917", "name": "DUMPALA MOUNIKA", "branch": "ECE", "gender": "F" },
+  {
+    "id": "23996",
+    "name": "AGURLA THIRUPATHI",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  { "id": "24065", "name": "JULURU JYOTHI", "branch": "ECE", "gender": "F" },
+  { "id": "24128", "name": "THUPPATHI AKHIL", "branch": "ECE", "gender": "M" },
+  {
+    "id": "24346",
+    "name": "PEDDIREDDY ARAVIND REDDY",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "25271",
+    "name": "KANDALA VINAY ACHARYA",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  { "id": "25359", "name": "CHELLI SRIKANTH", "branch": "ECE", "gender": "M" },
+  {
+    "id": "25657",
+    "name": "GANGASANI APARNA LAKSHMI",
+    "branch": "ECE",
+    "gender": "F"
+  },
+  {
+    "id": "26024",
+    "name": "PRASHANTH KEVIN LUKE",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  { "id": "26077", "name": "VARAGANI SUMA", "branch": "ECE", "gender": "F" },
+  {
+    "id": "27104",
+    "name": "NITHIN RAJESH PIPPARA",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "27697",
+    "name": "LOKA ARAVIND REDDY",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  { "id": "28198", "name": "GUBBA VAISHNAVI", "branch": "ECE", "gender": "F" },
+  {
+    "id": "28350",
+    "name": "YASHWANTH REDDY PENDYALA",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  { "id": "28696", "name": "G MOUNIKA", "branch": "ECE", "gender": "F" },
+  { "id": "28783", "name": "AKULA ANVESH", "branch": "ECE", "gender": "M" },
+  { "id": "28831", "name": "DODLA SHARANYA", "branch": "ECE", "gender": "F" },
+  { "id": "29373", "name": "T VIJAY KUMAR", "branch": "ECE", "gender": "M" },
+  { "id": "29582", "name": "JATANGI GOWTHAMI", "branch": "ECE", "gender": "F" },
+  { "id": "30233", "name": "GOUNI THANUJA", "branch": "ECE", "gender": "F" },
+  { "id": "30273", "name": "K ANIL KUMAR", "branch": "ECE", "gender": "M" },
+  { "id": "30710", "name": "G PRIYANKA", "branch": "ECE", "gender": "F" },
+  {
+    "id": "30714",
+    "name": "AMARAGANI SATHISH",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "30953",
+    "name": "AKELLA SRI HARI DATTA KARTHIKEYA",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "31144",
+    "name": "J CHANDRA SHEKAR REDDY",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "31296",
+    "name": "MYADARABOINA KEERTHANA",
+    "branch": "ECE",
+    "gender": "F"
+  },
+  { "id": "31782", "name": "GITHOLLA RESHMA", "branch": "ECE", "gender": "F" },
+  { "id": "32055", "name": "ENDLA AKSHAYA", "branch": "ECE", "gender": "F" },
+  { "id": "32290", "name": "CHEPURI RACHANA", "branch": "ECE", "gender": "F" },
+  { "id": "32368", "name": "AJMEERA NAVEEN", "branch": "ECE", "gender": "M" },
+  { "id": "32596", "name": "RAVULA DEVENDAR", "branch": "ECE", "gender": "M" },
+  { "id": "32641", "name": "MOHAMMAD SAMEER", "branch": "ECE", "gender": "M" },
+  { "id": "33805", "name": "SAMALLA AKSHAY", "branch": "ECE", "gender": "M" },
+  { "id": "33954", "name": "PATTEM SATHWIKA", "branch": "ECE", "gender": "F" },
+  {
+    "id": "33958",
+    "name": "MOHAMMED MAHEROZALI",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "33980",
+    "name": "BALLA UDIT RAJ FRANCIS",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  { "id": "34000", "name": "GUNDA PRANAY", "branch": "ECE", "gender": "M" },
+  {
+    "id": "34038",
+    "name": "GEEDIPALLY UMAMAHESHWAR REDDY",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "34424",
+    "name": "KATKURI BHARATH KUMAR REDDY",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  { "id": "36266", "name": "PUSAPATI ABHIRAM", "branch": "ECE", "gender": "M" },
+  {
+    "id": "36448",
+    "name": "GOLIWADA SRAVAN KUMAR",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  { "id": "37054", "name": "BARMANI SRIKAR", "branch": "ECE", "gender": "M" },
+  { "id": "37134", "name": "PRIYANKA RAULO", "branch": "ECE", "gender": "F" },
+  { "id": "37701", "name": "PAGADALA SWATHI", "branch": "ECE", "gender": "F" },
+  { "id": "38010", "name": "THADEPU SRIKANTH", "branch": "ECE", "gender": "M" },
+  {
+    "id": "38075",
+    "name": "SHAIK KHAJA JAWED",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  { "id": "38209", "name": "BURRA SHIVANAND", "branch": "ECE", "gender": "M" },
+  {
+    "id": "38424",
+    "name": "MOHAMMED AHMED ALI",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "39926",
+    "name": "CHINNA ROYYALA ARUN KUMAR",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  { "id": "40298", "name": "S SHIVA KUMAR", "branch": "ECE", "gender": "M" },
+  {
+    "id": "41551",
+    "name": "BUSSA RAGHAVAPUR RAJITHA",
+    "branch": "ECE",
+    "gender": "F"
+  },
+  { "id": "42214", "name": "BHUKYA YAKANNA", "branch": "ECE", "gender": "M" },
+  {
+    "id": "42636",
+    "name": "RAVIRALA KURSHITHA",
+    "branch": "ECE",
+    "gender": "F"
+  },
+  {
+    "id": "42825",
+    "name": "AMARIPELLY SAI KIRAN",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  { "id": "43685", "name": "GADDE LAVVA RAM", "branch": "ECE", "gender": "M" },
+  {
+    "id": "44375",
+    "name": "NALLA SAI SUPRAJA",
+    "branch": "ECE",
+    "gender": "F"
+  },
+  { "id": "44478", "name": "ANGIDI AKHILA", "branch": "ECE", "gender": "F" },
+  { "id": "44945", "name": "GUDIPATI THARUN", "branch": "ECE", "gender": "M" },
+  {
+    "id": "45211",
+    "name": "KANCHA SANKEERTHANA",
+    "branch": "ECE",
+    "gender": "F"
+  },
+  {
+    "id": "45579",
+    "name": "NUTHULAPATI JAHNAVI",
+    "branch": "ECE",
+    "gender": "F"
+  },
+  {
+    "id": "46165",
+    "name": "PERUVALA SURYA NARAYANA REDDY",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  { "id": "46176", "name": "BAKKA NAGARAJU", "branch": "ECE", "gender": "M" },
+  {
+    "id": "46514",
+    "name": "MANTHRALA VINEETH KUMAR",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  { "id": "46603", "name": "DHUPANA RAMU", "branch": "ECE", "gender": "M" },
+  {
+    "id": "46892",
+    "name": "BODDU DILEEP KUMAR",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  { "id": "46910", "name": "RAGAM SRINU", "branch": "ECE", "gender": "M" },
+  { "id": "47023", "name": "LANKA SHRUTHI", "branch": "ECE", "gender": "F" },
+  { "id": "47260", "name": "PUPPALA AKSHITHA", "branch": "ECE", "gender": "F" },
+  { "id": "47339", "name": "SAMA RISHIKA", "branch": "ECE", "gender": "F" },
+  { "id": "47436", "name": "SHAIK ASHRAF", "branch": "ECE", "gender": "M" },
+  { "id": "47585", "name": "MOGULLA PRANAY", "branch": "ECE", "gender": "M" },
+  { "id": "47708", "name": "PUJARI ABHISHEK", "branch": "ECE", "gender": "M" },
+  { "id": "48113", "name": "LABHALA SAIKIRAN", "branch": "ECE", "gender": "M" },
+  {
+    "id": "48359",
+    "name": "MAMUNURI PRANEETH GOUD",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  { "id": "48542", "name": "MOHAMMAD ASHWAQH", "branch": "ECE", "gender": "M" },
+  {
+    "id": "48741",
+    "name": "GUGULOTHU UDAY KIRAN",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "48920",
+    "name": "BOINAPELLY NIKITH",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  { "id": "49180", "name": "MUTHYALA MANASA", "branch": "ECE", "gender": "F" },
+  {
+    "id": "49249",
+    "name": "MADANI SAI CHARAN",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "49820",
+    "name": "THATIPALLI THANUJA",
+    "branch": "ECE",
+    "gender": "F"
+  },
+  {
+    "id": "49827",
+    "name": "NAGINLA SAI KUMAR",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "50432",
+    "name": "THIRUKOVELA ABHILASH",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "50453",
+    "name": "PANDYALA BHARATH KUMAR",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "50807",
+    "name": "MEENAPALLY SANDHYA YADAV",
+    "branch": "ECE",
+    "gender": "F"
+  },
+  { "id": "51327", "name": "DASARI MANISAI", "branch": "ECE", "gender": "M" },
+  {
+    "id": "51735",
+    "name": "DAMERAKONDA NITHIN",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "51750",
+    "name": "BELLAMKONDA BHUVAN KARTHIK",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  { "id": "51810", "name": "BANOTH NITHIN", "branch": "ECE", "gender": "M" },
+  { "id": "51966", "name": "RUKSANA", "branch": "ECE", "gender": "F" },
+  { "id": "52289", "name": "MAROJU SIREESHA", "branch": "ECE", "gender": "F" },
+  { "id": "52448", "name": "KAMOLLA NAVEEN", "branch": "ECE", "gender": "M" },
+  { "id": "52684", "name": "BOYA SANJANA", "branch": "ECE", "gender": "F" },
+  {
+    "id": "52737",
+    "name": "GADIGE ARAVIND KUMAR",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  { "id": "52934", "name": "PEDDI DEEKSHITHA", "branch": "ECE", "gender": "F" },
+  {
+    "id": "53095",
+    "name": "VEERLA VAMSHIKRISHNA",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  { "id": "53198", "name": "ADAPA ABHINAY", "branch": "ECE", "gender": "M" },
+  { "id": "53224", "name": "MOHAMMED MUNEEB", "branch": "ECE", "gender": "M" },
+  {
+    "id": "53294",
+    "name": "CHANDRAGIRI VEDANTH",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  { "id": "53302", "name": "NEHA SAMREEN", "branch": "ECE", "gender": "F" },
+  { "id": "53701", "name": "JANAGAMA SAHITHI", "branch": "ECE", "gender": "F" },
+  { "id": "54128", "name": "MOHAMMED AHAMAD", "branch": "ECE", "gender": "M" },
+  { "id": "54197", "name": "P ABHILASH", "branch": "ECE", "gender": "M" },
+  {
+    "id": "54267",
+    "name": "YERAGETI SUSHMITHA",
+    "branch": "ECE",
+    "gender": "F"
+  },
+  {
+    "id": "54358",
+    "name": "PEDDAGANI SAI KIRAN GOUD",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  { "id": "54473", "name": "ANUPOJU AKHIL", "branch": "ECE", "gender": "M" },
+  {
+    "id": "55246",
+    "name": "KEERTHI MANI TEJA",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  { "id": "55302", "name": "NUNAVATH MADHU", "branch": "ECE", "gender": "M" },
+  {
+    "id": "55322",
+    "name": "KALATHURU MOUNITHA",
+    "branch": "ECE",
+    "gender": "F"
+  },
+  {
+    "id": "55566",
+    "name": "CHITTARI AMRAVATHI SIDDHI BHARGHAVA VARMA",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  { "id": "55842", "name": "JADALA MACHENDAR", "branch": "ECE", "gender": "M" },
+  {
+    "id": "56405",
+    "name": "NAREDLA SANDHYA RANI",
+    "branch": "ECE",
+    "gender": "F"
+  },
+  { "id": "57354", "name": "YASA VAMSHI", "branch": "ECE", "gender": "M" },
+  {
+    "id": "57448",
+    "name": "LAVURI SRI CHAITANYA",
+    "branch": "ECE",
+    "gender": "F"
+  },
+  {
+    "id": "57513",
+    "name": "KATROTH SAIKUMAR NAYAK",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  { "id": "57975", "name": "KUMMARI AKSHAYA", "branch": "ECE", "gender": "F" },
+  { "id": "58063", "name": "PONNADA HEMANTH", "branch": "ECE", "gender": "M" },
+  { "id": "59429", "name": "A ANIL KUMAR", "branch": "ECE", "gender": "M" },
+  { "id": "59635", "name": "GUNDU SAHITHI", "branch": "ECE", "gender": "F" },
+  {
+    "id": "60043",
+    "name": "VEDURUPAKA UMAMAHESWARA RAO",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  { "id": "60347", "name": "GAINI UDAY KIRAN", "branch": "ECE", "gender": "M" },
+  {
+    "id": "61192",
+    "name": "MOHAMMAD ABDUL RAKHEEB",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  { "id": "61773", "name": "KODURU PRANITHA", "branch": "ECE", "gender": "F" },
+  { "id": "62139", "name": "BANOTH VIJAY", "branch": "ECE", "gender": "M" },
+  { "id": "64761", "name": "BATHULA MANIDEEP", "branch": "ECE", "gender": "M" },
+  {
+    "id": "64762",
+    "name": "SABAVATH VENKATESH",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  { "id": "65601", "name": "JATOTH KALYAN", "branch": "ECE", "gender": "M" },
+  {
+    "id": "66862",
+    "name": "KAMMARI ANIL KUMAR",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  { "id": "68944", "name": "GUNDU SRIMAN", "branch": "ECE", "gender": "M" },
+  { "id": "71157", "name": "UBBU NANDU", "branch": "ECE", "gender": "M" },
+  { "id": "72979", "name": "JANNU SIDDARTHA", "branch": "ECE", "gender": "M" },
+  { "id": "73677", "name": "SUNARKANI NAVEEN", "branch": "ECE", "gender": "M" },
+  { "id": "73976", "name": "RODDA VENU", "branch": "ECE", "gender": "M" },
+  {
+    "id": "74048",
+    "name": "KANDIKONDA BHARATHWAJ",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "74663",
+    "name": "BELLAMKONDA SAKETH",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  { "id": "75759", "name": "MD SALMAN", "branch": "ECE", "gender": "M" },
+  { "id": "75992", "name": "DANDU DIVYA", "branch": "ECE", "gender": "F" },
+  { "id": "77176", "name": "GUNDAM SAI TEJA", "branch": "ECE", "gender": "M" },
+  { "id": "77588", "name": "UBUDI SANDEEP", "branch": "ECE", "gender": "M" },
+  {
+    "id": "77726",
+    "name": "CHANDRA SHEKHER NEETHIPUDI",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  { "id": "79129", "name": "HARSHITHA ALAND", "branch": "ECE", "gender": "F" },
+  { "id": "80118", "name": "DUBASI ROHIT", "branch": "ECE", "gender": "M" },
+  { "id": "80554", "name": "ANDE KUMAR", "branch": "ECE", "gender": "M" },
+  { "id": "80906", "name": "REVANTH KULERU", "branch": "ECE", "gender": "M" },
+  { "id": "81427", "name": "ABHINAV BATHI", "branch": "ECE", "gender": "M" },
+  {
+    "id": "88994",
+    "name": "VATNALA VARUN GOUD",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  { "id": "89215", "name": "NAMINDLA SHINY", "branch": "ECE", "gender": "F" },
+  {
+    "id": "92012",
+    "name": "AMBUGAL SUNNYHEETH",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "93432",
+    "name": "KANDHUKURI SHIRISHA",
+    "branch": "ECE",
+    "gender": "F"
+  },
+  { "id": "93528", "name": "AVULA GOPAL", "branch": "ECE", "gender": "M" },
+  { "id": "98216", "name": "CHOWHAN PAVITHRA", "branch": "ECE", "gender": "F" },
+  {
+    "id": "98893",
+    "name": "PARTHIV RAJ VEDANGI",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  { "id": "99829", "name": "INDURI SHRAVANI", "branch": "ECE", "gender": "F" },
+  {
+    "id": "103865",
+    "name": "SHATHAGALLA SHRAVANI",
+    "branch": "ECE",
+    "gender": "F"
+  },
+  { "id": "106853", "name": "SINDI VYSHNAVI", "branch": "ECE", "gender": "F" },
+  {
+    "id": "109124",
+    "name": "GOTTUMUKKULA PAVANI",
+    "branch": "ECE",
+    "gender": "F"
+  },
+  { "id": "113240", "name": "NIVAS KALAPALA", "branch": "ECE", "gender": "M" },
+  { "id": "113297", "name": "GARIGE KAVYA", "branch": "ECE", "gender": "F" },
+  { "id": "115769", "name": "BEGARE SREEDHAR", "branch": "ECE", "gender": "M" },
+  { "id": "115907", "name": "CH SHYAM", "branch": "ECE", "gender": "M" },
+  {
+    "id": "116414",
+    "name": "PARVATHAM NARESH",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  { "id": "116659", "name": "M MURALI", "branch": "ECE", "gender": "M" },
+  { "id": "117028", "name": "POLE PAVAN TEJA", "branch": "ECE", "gender": "M" },
+  { "id": "118829", "name": "KOMMINI KIRAN", "branch": "ECE", "gender": "M" },
+  {
+    "id": "120417",
+    "name": "MANIKONDA YASASHWINI",
+    "branch": "ECE",
+    "gender": "F"
+  },
+  {
+    "id": "4571",
+    "name": "DASARI SAI VARDHAN NAIDU",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "5028",
+    "name": "PAPPULA KARTHIK REDDY",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  { "id": "5215", "name": "KARTHEEK JANAPATI", "branch": "CSE", "gender": "M" },
+  {
+    "id": "5335",
+    "name": "DIBBESA VAMSI KRISHNA",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "7475",
+    "name": "KAJA SANJEEV KUMAR",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "7595",
+    "name": "YARRAMSETTI MADHU VENKATA SURYA NARAYANA",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "8106",
+    "name": "SOMARAJUPALLI THEJASWI",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  {
+    "id": "8272",
+    "name": "GUNREDDY AKSHITH REDDY",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  { "id": "8362", "name": "SUMESH", "branch": "CSE", "gender": "M" },
+  {
+    "id": "8646",
+    "name": "PEDDINTI SAI VARDHAN",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "8714",
+    "name": "SHREYASH SANJEEV KUMAR KULKARNI",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "8759",
+    "name": "GUNNA VINAY KUMAR REDDY",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "9091",
+    "name": "YADDANAPUDI VISHNU SRIVATSAVA",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  { "id": "9108", "name": "NAKKALA KEERTHANA", "branch": "CSE", "gender": "F" },
+  {
+    "id": "9131",
+    "name": "C J VISHNU PRAKASH",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "9254",
+    "name": "GUMMIREDDY SAINATH REDDY",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "9372",
+    "name": "CHAVATAPALLI MUKUNDA SRI HASINI",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  {
+    "id": "9752",
+    "name": "KACHIREDDY JAYASREE",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  {
+    "id": "9831",
+    "name": "HARIKA REDDY GANTA",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  { "id": "9880", "name": "INDUGULA MANISHA", "branch": "CSE", "gender": "F" },
+  {
+    "id": "10082",
+    "name": "MAHANTHI SAI MANYA SRI",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  {
+    "id": "10116",
+    "name": "RACHAMALLA SAI UJITHA REDDY",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  { "id": "10347", "name": "SHRIYA MALANI", "branch": "CSE", "gender": "F" },
+  { "id": "10351", "name": "BENKI JYOTHIKA", "branch": "CSE", "gender": "F" },
+  { "id": "10401", "name": "KURAPATI ESHWAR", "branch": "CSE", "gender": "M" },
+  { "id": "10412", "name": "GADUGULA KALYANI", "branch": "CSE", "gender": "F" },
+  { "id": "10507", "name": "ALAVALA KAVYA", "branch": "CSE", "gender": "F" },
+  {
+    "id": "10669",
+    "name": "VARLA RAMAKRISHNA REDDY",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  { "id": "10704", "name": "SAI KIRAN B L S", "branch": "CSE", "gender": "M" },
+  { "id": "10805", "name": "GORINTA RAHULU", "branch": "CSE", "gender": "M" },
+  {
+    "id": "11021",
+    "name": "KAPU HARSHA VARDAN REDDY",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "11088",
+    "name": "DAVULURI SAI SUJAN",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "11315",
+    "name": "TODUPUNURI SHAI PRIYA",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  {
+    "id": "11427",
+    "name": "DANDA VENKATA SATHWIK REDDY",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  { "id": "11481", "name": "SOMANI SHANMUKH", "branch": "CSE", "gender": "M" },
+  { "id": "11572", "name": "PATRAYADI RAVI", "branch": "CSE", "gender": "M" },
+  {
+    "id": "11586",
+    "name": "NAGIREDDY ANVITHA",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  {
+    "id": "11605",
+    "name": "MAMIDI VENU GOPAL",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "11701",
+    "name": "TEEGALA BHANU TEJA REDDY",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  { "id": "11748", "name": "YESUGARI ADHARSH", "branch": "CSE", "gender": "M" },
+  {
+    "id": "11827",
+    "name": "DHULIPALLA VENKATA SAI SIVA JAYAPRAKASH",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "11960",
+    "name": "CHIMMULA SHIVA PRASAD REDDY",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  { "id": "12044", "name": "AILENI SATHWIK", "branch": "CSE", "gender": "M" },
+  {
+    "id": "12079",
+    "name": "GUDIPALLY SAI SANJAY",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  { "id": "12120", "name": "OM GUPTA", "branch": "CSE", "gender": "M" },
+  {
+    "id": "12178",
+    "name": "DESHAPATHI SAHITHI",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  { "id": "12192", "name": "TUMMALA SAHITH", "branch": "CSE", "gender": "M" },
+  { "id": "12367", "name": "KODURU PRANATHI", "branch": "CSE", "gender": "F" },
+  {
+    "id": "12395",
+    "name": "POTHARAJU SAI KIRAN",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  { "id": "12487", "name": "CHANDRA SAHITHI", "branch": "CSE", "gender": "F" },
+  { "id": "12544", "name": "BHAKE SHASHANK", "branch": "CSE", "gender": "M" },
+  { "id": "12665", "name": "MANAS CHHATWAL", "branch": "CSE", "gender": "M" },
+  {
+    "id": "12711",
+    "name": "GORANTI SANTHU SATHWIK",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "12801",
+    "name": "DODDAPANENI MEGHAN CHOWDARY",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "12819",
+    "name": "BUCHENELLI NIKHILESH REDDY",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  { "id": "12838", "name": "SATVIKA KARUMUDI", "branch": "CSE", "gender": "F" },
+  { "id": "12939", "name": "ERUKULA RAJASREE", "branch": "CSE", "gender": "F" },
+  { "id": "12971", "name": "J AKANSH", "branch": "CSE", "gender": "M" },
+  {
+    "id": "13036",
+    "name": "SEGU JAYA BALA HARSHAVARDHAN",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "13119",
+    "name": "SALENDRA MANOJ KUMAR",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  { "id": "13121", "name": "DOLLA RENUKA", "branch": "CSE", "gender": "F" },
+  { "id": "13402", "name": "GURRAM SRIKANTH", "branch": "CSE", "gender": "M" },
+  {
+    "id": "13467",
+    "name": "VIJAYAGIRI AMULYA",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  { "id": "13509", "name": "RAGE DAMODHAR", "branch": "CSE", "gender": "M" },
+  {
+    "id": "13547",
+    "name": "PANCHAGNULA VINUTNA",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  { "id": "13673", "name": "SHA SOPNIL JAIN", "branch": "CSE", "gender": "M" },
+  {
+    "id": "13708",
+    "name": "CHILUKA SAI KARTHIK",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "13719",
+    "name": "KUMBALA ABHILASH REDDY",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  { "id": "13769", "name": "BASHAM RAJU", "branch": "CSE", "gender": "M" },
+  {
+    "id": "13806",
+    "name": "NEERUDI HARIPRASAD",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  { "id": "13900", "name": "TANNIRU MAHESH", "branch": "CSE", "gender": "M" },
+  { "id": "13948", "name": "GUNDETI KRUPAL", "branch": "CSE", "gender": "M" },
+  {
+    "id": "14087",
+    "name": "VITTAPUR BINNU REDDY",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  { "id": "14225", "name": "PENDEM YOGITHA", "branch": "CSE", "gender": "F" },
+  {
+    "id": "14266",
+    "name": "KONDETI VIKRAMREDDY",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "14341",
+    "name": "VAKALA KAVYA SAI SUMA SRI",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  {
+    "id": "14494",
+    "name": "RAYABARAPU CHATHURYA",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  { "id": "14596", "name": "BELKONI ANVESH", "branch": "CSE", "gender": "M" },
+  { "id": "14679", "name": "KOTHA VAISHNAVI", "branch": "CSE", "gender": "F" },
+  {
+    "id": "14855",
+    "name": "PADALA ANIL KUMAR",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "15032",
+    "name": "LAVANGU VAISHNAVI",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  { "id": "15250", "name": "DADE DINISHA", "branch": "CSE", "gender": "F" },
+  { "id": "15271", "name": "ABBULA VINUTHNA", "branch": "CSE", "gender": "F" },
+  { "id": "15383", "name": "NALABOLU MOUNIKA", "branch": "CSE", "gender": "F" },
+  { "id": "15704", "name": "UNI SAILESH", "branch": "CSE", "gender": "M" },
+  {
+    "id": "16178",
+    "name": "BESTHA NANDA KISHORE",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  { "id": "16285", "name": "M GANESH", "branch": "CSE", "gender": "M" },
+  { "id": "16301", "name": "SHANIGALA VISHNU", "branch": "CSE", "gender": "M" },
+  { "id": "16513", "name": "NEELA SAI ADITYA", "branch": "CSE", "gender": "M" },
+  {
+    "id": "16609",
+    "name": "SAKKERLA RAJ KUMAR",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "16635",
+    "name": "GAJULAPALLE SREE LAKSHMI",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  { "id": "16770", "name": "VAVILLA RAVITEJA", "branch": "CSE", "gender": "M" },
+  {
+    "id": "17217",
+    "name": "GAMPALA SRI DURGA PRABHATH",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  { "id": "17347", "name": "TUSYAA SREERALA", "branch": "CSE", "gender": "F" },
+  {
+    "id": "17746",
+    "name": "PRAHARSHITHA SURAGONI",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  { "id": "17902", "name": "BACHAWAR VINITHA", "branch": "CSE", "gender": "F" },
+  {
+    "id": "17963",
+    "name": "MOHAMMAD ABDUL KALAM",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  { "id": "17988", "name": "GUDIPUDI DHEERAJ", "branch": "CSE", "gender": "M" },
+  { "id": "18052", "name": "BAIRA ANUSHA", "branch": "CSE", "gender": "F" },
+  {
+    "id": "18055",
+    "name": "MADULAPURAM SAI YASHWANTH RAJ",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  { "id": "18149", "name": "YELDI ARUN", "branch": "CSE", "gender": "M" },
+  {
+    "id": "18274",
+    "name": "YERAVELLI RUCHITHA",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  { "id": "18442", "name": "SHERIKAR RAHUL", "branch": "CSE", "gender": "M" },
+  { "id": "18489", "name": "DHUDURI SATHVIKA", "branch": "CSE", "gender": "F" },
+  {
+    "id": "18555",
+    "name": "MANGINA SRI VENKATA SAI",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "18597",
+    "name": "MANGA TARAKA RATNA YOSHITH GOUD",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  { "id": "18678", "name": "SINDEY ABHIGNA", "branch": "CSE", "gender": "F" },
+  { "id": "19000", "name": "KOTTE MOUNIKA", "branch": "CSE", "gender": "F" },
+  {
+    "id": "19122",
+    "name": "VASURI VINAY KUMAR",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "19176",
+    "name": "THAKUR ABHINAV SINGH",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "19298",
+    "name": "BOLLU HARI CHARHAN",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  { "id": "19306", "name": "SRIRAM NAGARAJU", "branch": "CSE", "gender": "M" },
+  {
+    "id": "19317",
+    "name": "NEELAM BHARATH KUMAR",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "19419",
+    "name": "THATIKONDA AKHILA",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  { "id": "19758", "name": "OLIGE RANI", "branch": "CSE", "gender": "F" },
+  { "id": "19810", "name": "PAVAN KUMAR", "branch": "CSE", "gender": "M" },
+  {
+    "id": "19879",
+    "name": "MOHAMMAD ARSHAD NIZAMI",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  { "id": "20597", "name": "SATTU RAKESH", "branch": "CSE", "gender": "M" },
+  { "id": "20702", "name": "RANGU ABHINAV", "branch": "CSE", "gender": "M" },
+  { "id": "20861", "name": "NIMMALA SAI", "branch": "CSE", "gender": "M" },
+  {
+    "id": "20872",
+    "name": "BENKI VARSHITHA RANI",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  { "id": "20938", "name": "KANDI SWETHA", "branch": "CSE", "gender": "F" },
+  { "id": "21383", "name": "GUNNALA AKHILA", "branch": "CSE", "gender": "F" },
+  { "id": "21453", "name": "BINGI NITHYASRI", "branch": "CSE", "gender": "F" },
+  {
+    "id": "21581",
+    "name": "MARAGONI KARTHIKEYA",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "21966",
+    "name": "KATRAVATH MANJULA",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  {
+    "id": "22423",
+    "name": "KONDA VISHAL GOUD",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "22470",
+    "name": "AKURATHI RITHVIK SESHAGIRI",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "22594",
+    "name": "MOHAMMED MUDASSIR ALI",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  { "id": "23064", "name": "SHAIK JAVED", "branch": "CSE", "gender": "M" },
+  {
+    "id": "23254",
+    "name": "DASARI AJAY KUMAR",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "23376",
+    "name": "UMMEDA SHIVA SAI KRISHNA",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  { "id": "23473", "name": "VUPPALA SHLAGHA", "branch": "CSE", "gender": "F" },
+  {
+    "id": "23623",
+    "name": "MOHAMMAD JUNENUDDIN",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  { "id": "23829", "name": "IYLA SNEHARIKA", "branch": "CSE", "gender": "F" },
+  {
+    "id": "24206",
+    "name": "PALTHYAVATH VISHAL",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  { "id": "24328", "name": "ANDE AJAY", "branch": "CSE", "gender": "M" },
+  {
+    "id": "24394",
+    "name": "MUAAZ MOHAMMED MUNEER",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "24493",
+    "name": "KURAKULA SHAILESH",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "24736",
+    "name": "AMGOTHU LOKESH NAIK",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  { "id": "25307", "name": "K AKHIL NAIK", "branch": "CSE", "gender": "M" },
+  {
+    "id": "25536",
+    "name": "ODURI VEERAMANIKANTA",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "25678",
+    "name": "KOMMANABOINA ANUSHA",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  {
+    "id": "25717",
+    "name": "KALVAKUNTA CHANDRASHEKAR",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "26978",
+    "name": "PINAPATI ABHISHEK",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "27509",
+    "name": "DAGGULA PRASHANTH",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  { "id": "27726", "name": "BABBI THAPA", "branch": "CSE", "gender": "M" },
+  { "id": "27845", "name": "SHAIK ILLIYAZ", "branch": "CSE", "gender": "M" },
+  {
+    "id": "27879",
+    "name": "KHANDESH THANU SRI",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  { "id": "28222", "name": "JOGU TARUN TEJA", "branch": "CSE", "gender": "M" },
+  {
+    "id": "28433",
+    "name": "KODIGANTI SAI KISHORE",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  { "id": "28478", "name": "M KAVYA", "branch": "CSE", "gender": "F" },
+  { "id": "28648", "name": "SHAIK TASNIM", "branch": "CSE", "gender": "F" },
+  { "id": "29004", "name": "SAPPIDI NANI", "branch": "CSE", "gender": "M" },
+  {
+    "id": "29199",
+    "name": "PAMULA BEULAH SUPRAGNYA",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  { "id": "30391", "name": "GOLLAPUDI NITHIN", "branch": "CSE", "gender": "M" },
+  { "id": "30489", "name": "PALTHYA SUMAN", "branch": "CSE", "gender": "M" },
+  { "id": "30836", "name": "BEHARA SURAJ", "branch": "CSE", "gender": "M" },
+  { "id": "31448", "name": "GANTA NISHAL", "branch": "CSE", "gender": "M" },
+  { "id": "32008", "name": "TADEM RAVITEJA", "branch": "CSE", "gender": "M" },
+  { "id": "32058", "name": "MOHAMMAD FERIA", "branch": "CSE", "gender": "F" },
+  {
+    "id": "32346",
+    "name": "TALOORI PRABHU KIRAN",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "33202",
+    "name": "MANURI CHANDU BABU",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  { "id": "33287", "name": "SUNKAPAKA JOHN", "branch": "CSE", "gender": "M" },
+  {
+    "id": "33526",
+    "name": "ABHAY PRATAP SINGH",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "33680",
+    "name": "NAGULAPALLY UDAYKIRAN",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "33982",
+    "name": "GUDAPATI NITHIN KUMAR",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  { "id": "34413", "name": "MOKIRALA JHANSI", "branch": "CSE", "gender": "F" },
+  { "id": "34808", "name": "JYOTHI BALAJI", "branch": "CSE", "gender": "M" },
+  { "id": "35930", "name": "AYEMON ZEBA", "branch": "CSE", "gender": "F" },
+  { "id": "37683", "name": "GOUNI PAVANI", "branch": "CSE", "gender": "F" },
+  {
+    "id": "39420",
+    "name": "TEJAVATH VASANTHA",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  {
+    "id": "39592",
+    "name": "VALLAMKONDA POOJITHA",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  {
+    "id": "39915",
+    "name": "SATHYARAM DHANA LAKSHMI",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  { "id": "41800", "name": "KOMMU VEERENDAR", "branch": "CSE", "gender": "M" },
+  {
+    "id": "43190",
+    "name": "NENAVATH SRAVANI RATHOD",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  {
+    "id": "45388",
+    "name": "BANOTHU DALI HIMASRI",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  { "id": "45938", "name": "D GAYATHRI", "branch": "CSE", "gender": "F" },
+  {
+    "id": "50487",
+    "name": "INDUPALLI SHARONSUDHA",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  {
+    "id": "51346",
+    "name": "GUNTHAPALLI MALINI",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  {
+    "id": "52883",
+    "name": "P Y GEETHA MADHURI",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  { "id": "57356", "name": "ROSHAN TALARI", "branch": "CSE", "gender": "M" },
+  { "id": "60181", "name": "SARVADEY ZANETA", "branch": "CSE", "gender": "F" },
+  { "id": "65236", "name": "SABAVATH LAKSHMI", "branch": "CSE", "gender": "F" },
+  { "id": "86824", "name": "BODA ASHOK", "branch": "CSE", "gender": "M" },
+  {
+    "id": "87133",
+    "name": "DAMARLA HEMAVATHI",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  { "id": "17865", "name": "MANNEM SATHVIKA", "branch": "EEE", "gender": "F" },
+  {
+    "id": "33206",
+    "name": "VUPPUNUTHALA MAHARSHI",
+    "branch": "EEE",
+    "gender": "M"
+  },
+  {
+    "id": "42731",
+    "name": "KODIMYALA PRUTHVI GOUD",
+    "branch": "EEE",
+    "gender": "M"
+  },
+  {
+    "id": "46382",
+    "name": "DAKSHATHA REDDY BOLLA",
+    "branch": "EEE",
+    "gender": "F"
+  },
+  { "id": "48240", "name": "REKAM CHAKRADHAR", "branch": "EEE", "gender": "M" },
+  {
+    "id": "52752",
+    "name": "SHEGANTI SAIKUMAR",
+    "branch": "EEE",
+    "gender": "M"
+  },
+  { "id": "55644", "name": "KANDI MADHU", "branch": "EEE", "gender": "M" },
+  { "id": "55725", "name": "KONDRA DAKESHWAR", "branch": "EEE", "gender": "M" },
+  {
+    "id": "55831",
+    "name": "NAGAPURI POOJITHA",
+    "branch": "EEE",
+    "gender": "F"
+  },
+  { "id": "57569", "name": "BETHA NITHIN SAI", "branch": "EEE", "gender": "M" },
+  { "id": "64717", "name": "NAKKA VARUN", "branch": "EEE", "gender": "M" },
+  { "id": "64949", "name": "ALLURI ASHRITHA", "branch": "EEE", "gender": "F" },
+  { "id": "65529", "name": "ATIPAMULA AKASH", "branch": "EEE", "gender": "M" },
+  { "id": "69208", "name": "DUVVALA SRIDHAR", "branch": "EEE", "gender": "M" },
+  { "id": "70257", "name": "KETHAVATH MADHU", "branch": "EEE", "gender": "M" },
+  {
+    "id": "71111",
+    "name": "ACHAMMAGARI POOJITHA REDDY",
+    "branch": "EEE",
+    "gender": "F"
+  },
+  {
+    "id": "71956",
+    "name": "ANAGANDULA SRAVAN KUMAR",
+    "branch": "EEE",
+    "gender": "M"
+  },
+  { "id": "76169", "name": "MATHANGI KARTHIK", "branch": "EEE", "gender": "M" },
+  {
+    "id": "81330",
+    "name": "KURAPATI SIDDHARTHA",
+    "branch": "EEE",
+    "gender": "M"
+  },
+  { "id": "84210", "name": "RAYAPURAM AMRUTH", "branch": "EEE", "gender": "M" },
+  {
+    "id": "86074",
+    "name": "GULLIPALLI JAYASANTOSH",
+    "branch": "EEE",
+    "gender": "M"
+  },
+  {
+    "id": "88553",
+    "name": "KURSENGA SAIKUMAR",
+    "branch": "EEE",
+    "gender": "M"
+  },
+  {
+    "id": "100620",
+    "name": "LUNAVATH VIGNESH",
+    "branch": "EEE",
+    "gender": "M"
+  },
+  {
+    "id": "102024",
+    "name": "KANCHANAPELLI SRIMAN",
+    "branch": "EEE",
+    "gender": "M"
+  },
+  {
+    "id": "102311",
+    "name": "MAIMEL SANDHYA REDDY",
+    "branch": "EEE",
+    "gender": "F"
+  },
+  { "id": "114920", "name": "JATOTH HARI", "branch": "EEE", "gender": "M" },
+  {
+    "id": "116754",
+    "name": "SANGASANI NAVEENA",
+    "branch": "EEE",
+    "gender": "F"
+  },
+  {
+    "id": "118075",
+    "name": "KALAPALA KAMALA KUMARI",
+    "branch": "EEE",
+    "gender": "F"
+  },
+  { "id": "119693", "name": "SABAVATH ESHWAR", "branch": "EEE", "gender": "M" },
+  {
+    "id": "120365",
+    "name": "SHATHANI ARCHANA",
+    "branch": "EEE",
+    "gender": "F"
+  },
+  {
+    "id": "34528",
+    "name": "ILLA PRADEEP SURYA AJAY KUMAR",
+    "branch": "MECH",
+    "gender": "M"
+  },
+  { "id": "44348", "name": "SINCHAN PAL", "branch": "MECH", "gender": "M" },
+  { "id": "49679", "name": "G UDAY KUMAR", "branch": "MECH", "gender": "M" },
+  {
+    "id": "52066",
+    "name": "DHARMENDAR RAMAWAT",
+    "branch": "MECH",
+    "gender": "M"
+  },
+  { "id": "54561", "name": "KASARLA RAJESH", "branch": "MECH", "gender": "M" },
+  {
+    "id": "62162",
+    "name": "BALIJAPALLI SUVARNA",
+    "branch": "MECH",
+    "gender": "F"
+  },
+  {
+    "id": "65586",
+    "name": "PALIVELA DHARMA TEJA",
+    "branch": "MECH",
+    "gender": "M"
+  },
+  {
+    "id": "66484",
+    "name": "KUMPATLA NAGA DURGA KONDALA RAO",
+    "branch": "MECH",
+    "gender": "M"
+  },
+  {
+    "id": "70497",
+    "name": "MACHHA RUPESH SREE RATHNAM",
+    "branch": "MECH",
+    "gender": "M"
+  },
+  {
+    "id": "77268",
+    "name": "LUNAVATH SREEKANTH",
+    "branch": "MECH",
+    "gender": "M"
+  },
+  { "id": "80648", "name": "GAJULA SHREYAS", "branch": "MECH", "gender": "M" },
+  { "id": "81139", "name": "SHAIK SHAROOKH", "branch": "MECH", "gender": "M" },
+  {
+    "id": "82653",
+    "name": "DONTHIREDDY ROHITH REDDY",
+    "branch": "MECH",
+    "gender": "M"
+  },
+  { "id": "85321", "name": "JAPU AKHILESH", "branch": "MECH", "gender": "M" },
+  { "id": "94540", "name": "BUYAKAR SANDEEP", "branch": "MECH", "gender": "M" },
+  { "id": "102263", "name": "KOUDI PRAVEEN", "branch": "MECH", "gender": "M" },
+  {
+    "id": "104849",
+    "name": "DYARANGULA PRASAD",
+    "branch": "MECH",
+    "gender": "M"
+  },
+  {
+    "id": "106520",
+    "name": "MUNIGONDA LAXMAN",
+    "branch": "MECH",
+    "gender": "M"
+  },
+  {
+    "id": "108261",
+    "name": "JILLEPALLI SANDEEP",
+    "branch": "MECH",
+    "gender": "M"
+  },
+  {
+    "id": "117276",
+    "name": "MYADAPALLY NARESH KUMAR",
+    "branch": "MECH",
+    "gender": "M"
+  },
+  {
+    "id": "118397",
+    "name": "LINGALA SAMSHLESH",
+    "branch": "MECH",
+    "gender": "M"
+  },
+  {
+    "id": "118407",
+    "name": "CHILUMULA SAI SIDDARTHA",
+    "branch": "MECH",
+    "gender": "M"
+  },
+  {
+    "id": "118891",
+    "name": "NUVVULA KARTHIK",
+    "branch": "MECH",
+    "gender": "M"
+  },
+  {
+    "id": "119137",
+    "name": "MANTHENA PREMSAGAR",
+    "branch": "MECH",
+    "gender": "M"
+  },
+  {
+    "id": "13696",
+    "name": "KOTAGIRI CHANDRIKA",
+    "branch": "IT",
+    "gender": "F"
+  },
+  { "id": "14595", "name": "NANTA NIKHITHA", "branch": "IT", "gender": "F" },
+  { "id": "14950", "name": "RACHARLA SRUJANA", "branch": "IT", "gender": "F" },
+  { "id": "15041", "name": "REGULA VENU", "branch": "IT", "gender": "M" },
+  {
+    "id": "15479",
+    "name": "GODDATI BALA KRISHNA PRASAD",
+    "branch": "IT",
+    "gender": "M"
+  },
+  { "id": "15670", "name": "JULURI SATHWIK", "branch": "IT", "gender": "M" },
+  { "id": "16405", "name": "MARA VIKAS REDDY", "branch": "IT", "gender": "M" },
+  { "id": "16720", "name": "MARGAM NAMRATHA", "branch": "IT", "gender": "F" },
+  {
+    "id": "17901",
+    "name": "RAMANA GOWRISHETTY",
+    "branch": "IT",
+    "gender": "M"
+  },
+  { "id": "17913", "name": "KASHISH SINGHAL", "branch": "IT", "gender": "F" },
+  {
+    "id": "18110",
+    "name": "BOBBALA HEMANTH REDDY",
+    "branch": "IT",
+    "gender": "M"
+  },
+  { "id": "18410", "name": "KOTTUR VANI", "branch": "IT", "gender": "F" },
+  {
+    "id": "19883",
+    "name": "MAMILLA SRUTHIKA REDDY",
+    "branch": "IT",
+    "gender": "F"
+  },
+  {
+    "id": "20682",
+    "name": "POTHURAJU SAI KUMAR",
+    "branch": "IT",
+    "gender": "M"
+  },
+  {
+    "id": "21047",
+    "name": "LEKKALA SARANYA REDDY",
+    "branch": "IT",
+    "gender": "F"
+  },
+  {
+    "id": "21805",
+    "name": "JAISHETTI SRI VARSHITH",
+    "branch": "IT",
+    "gender": "M"
+  },
+  { "id": "21848", "name": "G SHIVA SHANKAR", "branch": "IT", "gender": "M" },
+  { "id": "22466", "name": "CHATHARAJU AKSHAY", "branch": "IT", "gender": "M" },
+  { "id": "22800", "name": "THUMULA RAMYA SRI", "branch": "IT", "gender": "F" },
+  { "id": "24715", "name": "KODIGANTI KAUSHAL", "branch": "IT", "gender": "M" },
+  {
+    "id": "25005",
+    "name": "MITTAPALLI THIRUMALESH",
+    "branch": "IT",
+    "gender": "M"
+  },
+  { "id": "25110", "name": "RATANPALKE ANUSHA", "branch": "IT", "gender": "F" },
+  {
+    "id": "25930",
+    "name": "PAIDI VIBHAVAN RAO",
+    "branch": "IT",
+    "gender": "M"
+  },
+  {
+    "id": "26089",
+    "name": "KARINGULA VENUDHAR",
+    "branch": "IT",
+    "gender": "M"
+  },
+  { "id": "26946", "name": "BOGADAPU KEERTHI", "branch": "IT", "gender": "F" },
+  { "id": "27020", "name": "ABDUL JALEEL", "branch": "IT", "gender": "M" },
+  { "id": "28846", "name": "BANDI HARSHINI", "branch": "IT", "gender": "F" },
+  {
+    "id": "31662",
+    "name": "SHAIK LATHEEF BABA",
+    "branch": "IT",
+    "gender": "M"
+  },
+  {
+    "id": "36939",
+    "name": "KANUKUNTA SINDHU PRIYA",
+    "branch": "IT",
+    "gender": "F"
+  },
+  { "id": "38730", "name": "SHAIK ASIF ALI", "branch": "IT", "gender": "M" },
+  { "id": "41217", "name": "MEGAVATH AJAY", "branch": "IT", "gender": "M" },
+  {
+    "id": "42531",
+    "name": "EPPALAPALLY ANIRUDH",
+    "branch": "IT",
+    "gender": "M"
+  },
+  {
+    "id": "44304",
+    "name": "KAMUNI KEERTHI PRIYA",
+    "branch": "IT",
+    "gender": "F"
+  },
+  { "id": "45206", "name": "BURRA JAYANTH", "branch": "IT", "gender": "M" },
+  { "id": "47405", "name": "BHUKYA SURESH", "branch": "IT", "gender": "M" },
+  { "id": "47765", "name": "VANNELDAS ADITYA", "branch": "IT", "gender": "M" },
+  { "id": "47882", "name": "TADKOLE INDHU", "branch": "IT", "gender": "F" },
+  { "id": "48308", "name": "N ANIRUDH", "branch": "IT", "gender": "M" },
+  { "id": "49136", "name": "KOTHAPALLY RAHUL", "branch": "IT", "gender": "M" },
+  {
+    "id": "49696",
+    "name": "GADDAM TANISH BHARGAV",
+    "branch": "IT",
+    "gender": "M"
+  },
+  { "id": "52200", "name": "PARLAPELLY AKASH", "branch": "IT", "gender": "M" },
+  {
+    "id": "53209",
+    "name": "PERLA CHANDRAKANTH",
+    "branch": "IT",
+    "gender": "M"
+  },
+  { "id": "55136", "name": "BALURI TANISHQI", "branch": "IT", "gender": "F" },
+  {
+    "id": "59958",
+    "name": "SANGAPAL SAI KUMAR",
+    "branch": "IT",
+    "gender": "M"
+  },
+  { "id": "67713", "name": "KATARAPU BABITHA", "branch": "IT", "gender": "F" },
+  { "id": "72837", "name": "KANDULA TANUJA", "branch": "IT", "gender": "F" },
+  {
+    "id": "82961",
+    "name": "KONDRA ANURAG GOUD",
+    "branch": "IT",
+    "gender": "M"
+  },
+  { "id": "11858", "name": "MALLA CHINMAI", "branch": "CSC", "gender": "F" },
+  { "id": "13996", "name": "DASARI KAUTILYA", "branch": "CSC", "gender": "M" },
+  { "id": "14237", "name": "KATTA SAI SINDHU", "branch": "CSC", "gender": "F" },
+  {
+    "id": "15626",
+    "name": "GANJIKUNTA ABHINAYA",
+    "branch": "CSC",
+    "gender": "F"
+  },
+  {
+    "id": "15666",
+    "name": "SUDULA SAI CHARAN",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  { "id": "16429", "name": "PRATHAM GONDIKER", "branch": "CSC", "gender": "M" },
+  {
+    "id": "16774",
+    "name": "AVUDARI SHARANYA CHOWDARY",
+    "branch": "CSC",
+    "gender": "F"
+  },
+  { "id": "16988", "name": "VINDYA SRI", "branch": "CSC", "gender": "F" },
+  { "id": "17282", "name": "ELLURU SRIRAM", "branch": "CSC", "gender": "M" },
+  { "id": "17353", "name": "P SIDDARTHA", "branch": "CSC", "gender": "M" },
+  { "id": "17440", "name": "SAERI BHANU TEJA", "branch": "CSC", "gender": "M" },
+  {
+    "id": "17467",
+    "name": "CHENNAM VIVEKA VARDHAN REDDY",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  { "id": "17721", "name": "SOPPARI SHIVA", "branch": "CSC", "gender": "M" },
+  {
+    "id": "18181",
+    "name": "BOGGULA PREM KUMAR",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  { "id": "18351", "name": "BACHA SRIHITHA", "branch": "CSC", "gender": "F" },
+  {
+    "id": "18407",
+    "name": "DEVARASHETTY JASHWANTH",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  { "id": "18666", "name": "NARLA SATHWIK", "branch": "CSC", "gender": "M" },
+  { "id": "18691", "name": "ANUKUL DODYA", "branch": "CSC", "gender": "M" },
+  { "id": "19015", "name": "KAJJAM SRIHITHA", "branch": "CSC", "gender": "F" },
+  {
+    "id": "19330",
+    "name": "AKIREDDI GARI SRIKAR REDDY",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  { "id": "19429", "name": "PANYALA TEJA SRI", "branch": "CSC", "gender": "F" },
+  { "id": "19607", "name": "GANJI RAMYA SREE", "branch": "CSC", "gender": "F" },
+  { "id": "19733", "name": "NAMPALLY RISHIKA", "branch": "CSC", "gender": "F" },
+  { "id": "19989", "name": "PULI MANASWI", "branch": "CSC", "gender": "F" },
+  { "id": "20689", "name": "DURGAM VARSHINI", "branch": "CSC", "gender": "F" },
+  { "id": "21134", "name": "NALUMASU ROHAN", "branch": "CSC", "gender": "M" },
+  {
+    "id": "21870",
+    "name": "JILLELA NIPUN REDDY",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  {
+    "id": "22903",
+    "name": "KAMMALAPALLY AMITH KUMAR",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  {
+    "id": "22992",
+    "name": "ANKALLAGALLA CHAKRADHAR",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  {
+    "id": "23684",
+    "name": "BHOJANAPU VENKATA CHARAN",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  { "id": "25169", "name": "BATHINI VIKAS", "branch": "CSC", "gender": "M" },
+  { "id": "26825", "name": "ANASURI NIKHILA", "branch": "CSC", "gender": "F" },
+  {
+    "id": "27150",
+    "name": "LAKKARAM RUSHIKESH",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  { "id": "27671", "name": "SIRIGANI HARIKA", "branch": "CSC", "gender": "F" },
+  { "id": "27839", "name": "BANDA ASHISH", "branch": "CSC", "gender": "M" },
+  { "id": "27961", "name": "BHANGAY AVANTHI", "branch": "CSC", "gender": "F" },
+  { "id": "28331", "name": "KAKUNURI PARDHU", "branch": "CSC", "gender": "M" },
+  {
+    "id": "28468",
+    "name": "TALLURI SAI VASANTH",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  {
+    "id": "28594",
+    "name": "PANDANABOINA SAI CHARAN",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  {
+    "id": "28642",
+    "name": "THUPPUDU SRINIVAS",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  {
+    "id": "28693",
+    "name": "BANDARU CHARAN TEJA GOUD",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  {
+    "id": "29082",
+    "name": "PAMPARI ROHAN RAJ",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  {
+    "id": "29166",
+    "name": "KUDURUPAKA KARTHIK",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  {
+    "id": "29259",
+    "name": "BOMMARILLU NARENDRA",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  { "id": "29281", "name": "PITTALA AKSHARA", "branch": "CSC", "gender": "F" },
+  { "id": "29420", "name": "BEKKANTI MARUTHI", "branch": "CSC", "gender": "M" },
+  {
+    "id": "29786",
+    "name": "KADARLA HARSHA VARDHAN",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  {
+    "id": "30022",
+    "name": "RASAKATLA SAI KIRAN",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  { "id": "30312", "name": "POOSALA SRIKANTH", "branch": "CSC", "gender": "M" },
+  {
+    "id": "30528",
+    "name": "GOLLAPELLI GNANESHWAR",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  { "id": "30884", "name": "KONDAWAR SANDEEP", "branch": "CSC", "gender": "M" },
+  {
+    "id": "31444",
+    "name": "MANNE SUMANTH VEERA VENKAT RAM",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  { "id": "32213", "name": "POODARI MAHENDER", "branch": "CSC", "gender": "M" },
+  {
+    "id": "32664",
+    "name": "ADIRALA SAI RAHUL",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  {
+    "id": "33034",
+    "name": "MIRYALKAR PUNEETH",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  { "id": "33143", "name": "ANUMULA GAYATRI", "branch": "CSC", "gender": "F" },
+  { "id": "33226", "name": "GANJI UDAY TEJA", "branch": "CSC", "gender": "M" },
+  { "id": "33359", "name": "YERRA SRIJA", "branch": "CSC", "gender": "F" },
+  { "id": "33393", "name": "SHREYA SAIRI", "branch": "CSC", "gender": "F" },
+  { "id": "33804", "name": "RISHI BALLA", "branch": "CSC", "gender": "M" },
+  { "id": "33934", "name": "NAYAKAM AKHIL", "branch": "CSC", "gender": "M" },
+  { "id": "34845", "name": "GADE DEEPIKA", "branch": "CSC", "gender": "F" },
+  { "id": "36394", "name": "PAPENA ADITHYA", "branch": "CSC", "gender": "M" },
+  { "id": "38720", "name": "JINNA KRUTHIKA", "branch": "CSC", "gender": "F" },
+  {
+    "id": "38855",
+    "name": "DODDIPELLY SAI PRIYA",
+    "branch": "CSC",
+    "gender": "F"
+  },
+  {
+    "id": "39096",
+    "name": "AAKARAPU RAMA CHARY",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  { "id": "41103", "name": "MD UMER THOUFIQ", "branch": "CSC", "gender": "M" },
+  {
+    "id": "41752",
+    "name": "MOHAMMED MUSTHAQEEM",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  {
+    "id": "42829",
+    "name": "GUMMADI SURYA KRISHNA RAGHUSHYAM",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  {
+    "id": "43928",
+    "name": "GUJJALA SANTHI VARDHAN",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  {
+    "id": "45632",
+    "name": "DASARI GAGAN RAKSHITH",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  { "id": "46059", "name": "MOHAMMAD ASFAHAN", "branch": "CSC", "gender": "M" },
+  { "id": "48076", "name": "BASUPALLY DRUTHI", "branch": "CSC", "gender": "F" },
+  { "id": "48723", "name": "K MAHESH", "branch": "CSC", "gender": "M" },
+  {
+    "id": "50270",
+    "name": "MOHAMMED ABDUL KHADER JILANI",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  {
+    "id": "51069",
+    "name": "KURAGANTI RATHNABABU",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  { "id": "51242", "name": "ARAY LOKESH", "branch": "CSC", "gender": "M" },
+  { "id": "51848", "name": "ABDUL FAISAL", "branch": "CSC", "gender": "M" },
+  {
+    "id": "52297",
+    "name": "SUKESH KUMAR NANDU KUMAR",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  { "id": "52326", "name": "MADUPATHI PAVANI", "branch": "CSC", "gender": "F" },
+  {
+    "id": "52406",
+    "name": "GUMMALA PRANAY KUMAR",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  { "id": "52923", "name": "MATAM BHAVANA", "branch": "CSC", "gender": "F" },
+  { "id": "52988", "name": "BOTTU SAI TEJA", "branch": "CSC", "gender": "M" },
+  { "id": "54908", "name": "BODA VEERA KUMAR", "branch": "CSC", "gender": "M" },
+  { "id": "55576", "name": "PONNAM ROOPADEVI", "branch": "CSC", "gender": "F" },
+  {
+    "id": "59297",
+    "name": "KONDETI BHARADWAJ",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  {
+    "id": "59777",
+    "name": "ALIGETI MANASWINI",
+    "branch": "CSC",
+    "gender": "F"
+  },
+  {
+    "id": "60926",
+    "name": "DONAKANTI HARSHAVARDHAN",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  { "id": "83927", "name": "HARSHITHA C", "branch": "CSC", "gender": "F" },
+  {
+    "id": "85233",
+    "name": "THALLA JOHN NEEL KUMAR",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  { "id": "99594", "name": "BANGARI DIVYA", "branch": "CSC", "gender": "F" },
+  {
+    "id": "107706",
+    "name": "MUDUGANTI SWETHA REDDY",
+    "branch": "CSC",
+    "gender": "F"
+  },
+  { "id": "118785", "name": "VAMSHI S", "branch": "CSC", "gender": "M" },
+  {
+    "id": "120793",
+    "name": "DHARAVATH CHANDRIKA",
+    "branch": "CSC",
+    "gender": "F"
+  },
+  {
+    "id": "8005",
+    "name": "MAKA VENKATA SAI GNANA SREE",
+    "branch": "CSM",
+    "gender": "F"
+  },
+  {
+    "id": "8510",
+    "name": "PAREDDY VARUN REDDY",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "8690",
+    "name": "PATAKOTTU VIVEK VARDHAN REDDY",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "8699",
+    "name": "BOGI VEERA SAI SASIDHAR",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "9323",
+    "name": "KORLAMANDA NAGA SUBHASRAVANI",
+    "branch": "CSM",
+    "gender": "F"
+  },
+  { "id": "9456", "name": "SREELEKHA GUDA", "branch": "CSM", "gender": "F" },
+  {
+    "id": "9676",
+    "name": "PANDUGA MANI PRASAD GOUD",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "10123",
+    "name": "MUKTHA NAMAN KUMAR",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "10922",
+    "name": "SURPARAJU VEDANJALI",
+    "branch": "CSM",
+    "gender": "F"
+  },
+  {
+    "id": "11208",
+    "name": "GANGINENI KIRAN PHANI KUMAR",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  { "id": "11224", "name": "BOLLA TARUN", "branch": "CSM", "gender": "M" },
+  {
+    "id": "11450",
+    "name": "GUNREDDY YASHWANTH REDDY",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "11554",
+    "name": "ADABALA SRI HARSHITHA",
+    "branch": "CSM",
+    "gender": "F"
+  },
+  { "id": "11881", "name": "JAKKULA SHRAVANI", "branch": "CSM", "gender": "F" },
+  {
+    "id": "12491",
+    "name": "YEELI MEGHA PAVAN SAI",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "12917",
+    "name": "RAGHAVARAPU JETHIN",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  { "id": "13269", "name": "NAGARAM SAI TEJA", "branch": "CSM", "gender": "M" },
+  {
+    "id": "13508",
+    "name": "ISHA KUMARI PANDEY",
+    "branch": "CSM",
+    "gender": "F"
+  },
+  {
+    "id": "13970",
+    "name": "GUTLA PALLI GNANA DEEP",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "14181",
+    "name": "KAMMARI YAGNA PRIYA",
+    "branch": "CSM",
+    "gender": "F"
+  },
+  {
+    "id": "14227",
+    "name": "MARUMAMULA USHA CHANDANA",
+    "branch": "CSM",
+    "gender": "F"
+  },
+  {
+    "id": "14329",
+    "name": "EPPA SRUJAN REDDY",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  { "id": "14557", "name": "PESALA SRINIJA", "branch": "CSM", "gender": "F" },
+  {
+    "id": "14584",
+    "name": "PATTHI ABHINAV REDDY",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "14922",
+    "name": "D NAGA PRACHOTHAN",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "14942",
+    "name": "DAYYALA PRASHANTH RAJ",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "14994",
+    "name": "DORNALA ABHINAV KUMAR",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  { "id": "15001", "name": "PAYAL PANDEY", "branch": "CSM", "gender": "F" },
+  {
+    "id": "15164",
+    "name": "DANDU ROOPAK REDDY",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "15299",
+    "name": "VACHEPALLI ANIL REDDY",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "15590",
+    "name": "RANGAPA GUNAVARDHEN REDDY",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "15599",
+    "name": "BHAVITHA AMARAVADHI",
+    "branch": "CSM",
+    "gender": "F"
+  },
+  {
+    "id": "15755",
+    "name": "KONA JAYA SHANKAR",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  { "id": "15822", "name": "ELIGETI VIGNESH", "branch": "CSM", "gender": "M" },
+  {
+    "id": "15962",
+    "name": "GEDELA BADHRINARAYANA",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "15988",
+    "name": "MANNE DHANA LAKSHMI",
+    "branch": "CSM",
+    "gender": "F"
+  },
+  {
+    "id": "16222",
+    "name": "LANKA BHANU PRAKASH",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "16345",
+    "name": "THIPPIREDDY VISHNU VARDHAN REDDY",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "16663",
+    "name": "AMARAM MAHIMA REDDY",
+    "branch": "CSM",
+    "gender": "F"
+  },
+  { "id": "16703", "name": "MAMINDLA PRANAY", "branch": "CSM", "gender": "M" },
+  {
+    "id": "16786",
+    "name": "ALEKANTI RAJESH REDDY",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  { "id": "16859", "name": "VANGALA LATHA", "branch": "CSM", "gender": "F" },
+  {
+    "id": "16977",
+    "name": "KUNCHAKURI NISHITH",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  { "id": "17081", "name": "YELLANKI ABHIRAM", "branch": "CSM", "gender": "M" },
+  {
+    "id": "17496",
+    "name": "KORUKOPPULA SHESHU KUMAR",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  { "id": "17821", "name": "G BHASKAR", "branch": "CSM", "gender": "M" },
+  {
+    "id": "18280",
+    "name": "MYAKALA SURYATEJA",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "18328",
+    "name": "SHAMANTHA SANJANA",
+    "branch": "CSM",
+    "gender": "F"
+  },
+  {
+    "id": "18599",
+    "name": "THOGITI MANIDEEP KUMAR",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "18644",
+    "name": "PULIGANDLA UDAYA SRI",
+    "branch": "CSM",
+    "gender": "F"
+  },
+  {
+    "id": "19259",
+    "name": "CHANDRA HARIKA SHATDHARSHANAM",
+    "branch": "CSM",
+    "gender": "F"
+  },
+  {
+    "id": "19770",
+    "name": "MARIKANTI SREEVALLI",
+    "branch": "CSM",
+    "gender": "F"
+  },
+  {
+    "id": "20028",
+    "name": "RODDAM MEGHANA REDDY",
+    "branch": "CSM",
+    "gender": "F"
+  },
+  { "id": "20167", "name": "G SARTHAK", "branch": "CSM", "gender": "M" },
+  {
+    "id": "20245",
+    "name": "ANUPOTULA SAI PRANEETH",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  { "id": "20266", "name": "YARRA ARUN KUMAR", "branch": "CSM", "gender": "M" },
+  {
+    "id": "20281",
+    "name": "NUKALA SAI SRUTHI",
+    "branch": "CSM",
+    "gender": "F"
+  },
+  {
+    "id": "20443",
+    "name": "KAMBALAPALLY DHARANI KUMAR",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  { "id": "20475", "name": "MARABOINA ANJALI", "branch": "CSM", "gender": "F" },
+  {
+    "id": "20496",
+    "name": "VUTLA YESHWANTH KUMAR",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  { "id": "20515", "name": "SAI KOUSHAL", "branch": "CSM", "gender": "M" },
+  {
+    "id": "20543",
+    "name": "CHIRANJI SIDDARTHA",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  { "id": "20901", "name": "DEGA PRADEEP", "branch": "CSM", "gender": "M" },
+  {
+    "id": "21054",
+    "name": "JAVAJI KAVYANJALI",
+    "branch": "CSM",
+    "gender": "F"
+  },
+  {
+    "id": "21341",
+    "name": "ETABOINA VAISHNAVI",
+    "branch": "CSM",
+    "gender": "F"
+  },
+  { "id": "21713", "name": "KANDALA SOWMYA", "branch": "CSM", "gender": "F" },
+  { "id": "21909", "name": "MADANA SHIVANI", "branch": "CSM", "gender": "F" },
+  { "id": "22393", "name": "V NIKHIL KUMAR", "branch": "CSM", "gender": "M" },
+  { "id": "22425", "name": "KADIRA RISHITHA", "branch": "CSM", "gender": "F" },
+  {
+    "id": "22596",
+    "name": "PASHIKANTI KARUNAKAR",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "22600",
+    "name": "KAIRAMKONDA ABHISHEK",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "22627",
+    "name": "SOMELLA SRICHARAN",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  { "id": "22908", "name": "BOMMA ABHILASH", "branch": "CSM", "gender": "M" },
+  { "id": "22937", "name": "PULI SATHWIKA", "branch": "CSM", "gender": "F" },
+  {
+    "id": "22985",
+    "name": "TATIKOLU DEEKSHITH",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "23183",
+    "name": "PEDDAGOUNDLA SANTHOSH",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  { "id": "24242", "name": "TIRUMALA ANIL", "branch": "CSM", "gender": "M" },
+  {
+    "id": "24336",
+    "name": "ADDALA VEERA VARDHAN",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "24353",
+    "name": "MUTHYALA SHAILAJA",
+    "branch": "CSM",
+    "gender": "F"
+  },
+  {
+    "id": "24413",
+    "name": "BOMBOTHULA GNANESHWARI",
+    "branch": "CSM",
+    "gender": "F"
+  },
+  {
+    "id": "24465",
+    "name": "KAMUNI UDAY KIRAN",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  { "id": "24484", "name": "KURVA SAI TEJA", "branch": "CSM", "gender": "M" },
+  { "id": "24816", "name": "GOLPALA SANDEEP", "branch": "CSM", "gender": "M" },
+  {
+    "id": "24829",
+    "name": "KATIKE MUSTAQ AHMED",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "24905",
+    "name": "VALLAKONDA NITHIN GOUD",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "24947",
+    "name": "ENUGU SRAVAN KUMAR",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  { "id": "25007", "name": "KOMMU YASHASRI", "branch": "CSM", "gender": "F" },
+  {
+    "id": "25156",
+    "name": "LOKAM SREE SRAVYA PUSHPA",
+    "branch": "CSM",
+    "gender": "F"
+  },
+  { "id": "25431", "name": "JISHNU PATLOLA", "branch": "CSM", "gender": "M" },
+  {
+    "id": "25454",
+    "name": "BALLA PAVAN KARTHIK",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "25555",
+    "name": "PEDAPUDI SATYA SAI NIKHIL",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "25575",
+    "name": "GOLLAPOTHU NAGA LAKSHMI",
+    "branch": "CSM",
+    "gender": "F"
+  },
+  { "id": "26268", "name": "SHERI ASHITOSH", "branch": "CSM", "gender": "M" },
+  {
+    "id": "26831",
+    "name": "PEDDAGOUNDLA YESWANTH",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "26899",
+    "name": "SAVALAPU SREEVALLIKA",
+    "branch": "CSM",
+    "gender": "F"
+  },
+  { "id": "27070", "name": "KADEM LOKESH", "branch": "CSM", "gender": "M" },
+  { "id": "27648", "name": "PUSAPATI NETHAJI", "branch": "CSM", "gender": "M" },
+  { "id": "27938", "name": "MADA SAI VARUN", "branch": "CSM", "gender": "M" },
+  {
+    "id": "27942",
+    "name": "SOODA NITHISH KALYAN",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "28384",
+    "name": "THOKALA DEEKSHITH",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  { "id": "28449", "name": "POTHARAJU PAVANI", "branch": "CSM", "gender": "F" },
+  { "id": "29828", "name": "GUDIPATI MAHITHA", "branch": "CSM", "gender": "F" },
+  { "id": "31643", "name": "SHAIK SHAREEF", "branch": "CSM", "gender": "M" },
+  { "id": "31959", "name": "TADURI SHRIYA", "branch": "CSM", "gender": "F" },
+  { "id": "32284", "name": "NENAVATH NARESH", "branch": "CSM", "gender": "M" },
+  {
+    "id": "32575",
+    "name": "DHARAVATH SIMHADRI",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  { "id": "33991", "name": "PARIDA VASAVI", "branch": "CSM", "gender": "F" },
+  {
+    "id": "34390",
+    "name": "SHAIK SHOAIB HANNAN",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "34471",
+    "name": "KOTA JASHUVA PRASANNA KUMAR",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  { "id": "35058", "name": "MYAKA VINAY", "branch": "CSM", "gender": "M" },
+  {
+    "id": "35200",
+    "name": "MOHAMMED ABDUL SARFARAZ",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "36184",
+    "name": "MOHAMMED TAUSEEF AHMED",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  { "id": "37024", "name": "BHAIRI ANJALI", "branch": "CSM", "gender": "F" },
+  { "id": "37736", "name": "MOSES ABBA", "branch": "CSM", "gender": "M" },
+  { "id": "37790", "name": "KOLA PRANAVA", "branch": "CSM", "gender": "F" },
+  {
+    "id": "38007",
+    "name": "BANDARI SAIRUTHWIK",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  { "id": "38082", "name": "VEERAPAGA PRANAY", "branch": "CSM", "gender": "M" },
+  { "id": "38300", "name": "PULUKURI SUNIT", "branch": "CSM", "gender": "M" },
+  { "id": "38415", "name": "THUMMA CHAITANYA", "branch": "CSM", "gender": "M" },
+  { "id": "38501", "name": "MD SAMEER", "branch": "CSM", "gender": "M" },
+  { "id": "38520", "name": "PATHLAVATH VINOD", "branch": "CSM", "gender": "M" },
+  {
+    "id": "38853",
+    "name": "PARVATHAM KRISHNAVAMSHI",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  { "id": "38915", "name": "THUMPATI LUCAS", "branch": "CSM", "gender": "M" },
+  {
+    "id": "39673",
+    "name": "BOPPI HARSHAVARDHAN",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  { "id": "41409", "name": "MANTHANI SANKETH", "branch": "CSM", "gender": "M" },
+  { "id": "41635", "name": "BHUKYA MANGILAL", "branch": "CSM", "gender": "M" },
+  { "id": "42488", "name": "MUDAVATH RAVI", "branch": "CSM", "gender": "M" },
+  { "id": "42758", "name": "BHUKYA LOKESH", "branch": "CSM", "gender": "M" },
+  {
+    "id": "42856",
+    "name": "POKKULA HARSHITHA",
+    "branch": "CSM",
+    "gender": "F"
+  },
+  { "id": "45072", "name": "CHINDAM PARIMALA", "branch": "CSM", "gender": "F" },
+  { "id": "45881", "name": "SHEELAM SAKESH", "branch": "CSM", "gender": "M" },
+  { "id": "48879", "name": "BUNADRI NANDINI", "branch": "CSM", "gender": "F" },
+  {
+    "id": "51949",
+    "name": "MOHAMMAD AYESHA BEGUM",
+    "branch": "CSM",
+    "gender": "F"
+  },
+  { "id": "58185", "name": "M ANJALI", "branch": "CSM", "gender": "F" },
+  {
+    "id": "66324",
+    "name": "POLUKONDA NISHNATHI",
+    "branch": "CSM",
+    "gender": "F"
+  },
+  {
+    "id": "66796",
+    "name": "RACHARLA SAMYUKTHA",
+    "branch": "CSM",
+    "gender": "F"
+  },
+  { "id": "73509", "name": "GUMMADI SHRAVANI", "branch": "CSM", "gender": "F" },
+  {
+    "id": "78582",
+    "name": "KALLEPALLI RASAGNA",
+    "branch": "CSM",
+    "gender": "F"
+  },
+  {
+    "id": "78959",
+    "name": "MEKALA PARIMALA KEERTHANA",
+    "branch": "CSM",
+    "gender": "F"
+  },
+  { "id": "84130", "name": "JYOTHI RUCHITHA", "branch": "CSM", "gender": "F" },
+  {
+    "id": "111700",
+    "name": "SINGAPAKA LIKHITHA",
+    "branch": "CSM",
+    "gender": "F"
+  },
+  { "id": "14984", "name": "S SREEJA", "branch": "AI&DS", "gender": "F" },
+  {
+    "id": "15609",
+    "name": "SOMIREDDY SRINIDHI",
+    "branch": "AI&DS",
+    "gender": "F"
+  },
+  {
+    "id": "17445",
+    "name": "DHADI DRUPAD SAI",
+    "branch": "AI&DS",
+    "gender": "M"
+  },
+  {
+    "id": "17704",
+    "name": "SIMHADRI VISHNU SAI",
+    "branch": "AI&DS",
+    "gender": "M"
+  },
+  { "id": "17996", "name": "BHIMARI NAGESH", "branch": "AI&DS", "gender": "M" },
+  {
+    "id": "18942",
+    "name": "MODAGALA LAKSHMI MOUNIKA",
+    "branch": "AI&DS",
+    "gender": "F"
+  },
+  {
+    "id": "19218",
+    "name": "BASHETTY VINEETH",
+    "branch": "AI&DS",
+    "gender": "M"
+  },
+  {
+    "id": "21497",
+    "name": "NELLURI VAKULABHARANAM PRANAV GOPAL",
+    "branch": "AI&DS",
+    "gender": "M"
+  },
+  {
+    "id": "23969",
+    "name": "MEKA GNANESHWAR REDDY",
+    "branch": "AI&DS",
+    "gender": "M"
+  },
+  { "id": "24213", "name": "N VENKATESH", "branch": "AI&DS", "gender": "M" },
+  {
+    "id": "24945",
+    "name": "DANABOINA VARA PRASAD",
+    "branch": "AI&DS",
+    "gender": "M"
+  },
+  { "id": "26188", "name": "DODDI MANUSHA", "branch": "AI&DS", "gender": "F" },
+  { "id": "26541", "name": "BEJUGAM ANUSRI", "branch": "AI&DS", "gender": "F" },
+  {
+    "id": "26765",
+    "name": "VELAMAJALA AMUKTHA",
+    "branch": "AI&DS",
+    "gender": "F"
+  },
+  {
+    "id": "27051",
+    "name": "ANABATHULA GOPICHAND",
+    "branch": "AI&DS",
+    "gender": "M"
+  },
+  {
+    "id": "28323",
+    "name": "NARLAPURAM SRAVAN KUMAR",
+    "branch": "AI&DS",
+    "gender": "M"
+  },
+  {
+    "id": "29886",
+    "name": "MOGILICHARLA VAMSHI",
+    "branch": "AI&DS",
+    "gender": "M"
+  },
+  {
+    "id": "32015",
+    "name": "KAMBLE BHANUPRAKASH",
+    "branch": "AI&DS",
+    "gender": "M"
+  },
+  {
+    "id": "32048",
+    "name": "MADIPADIGA VINAY KUMAR",
+    "branch": "AI&DS",
+    "gender": "M"
+  },
+  {
+    "id": "32621",
+    "name": "BONGONI SAI KEERTHANA",
+    "branch": "AI&DS",
+    "gender": "F"
+  },
+  { "id": "33338", "name": "PATLOLLA VINOD", "branch": "AI&DS", "gender": "M" },
+  {
+    "id": "33421",
+    "name": "SIDDOJU SAI VISHAL",
+    "branch": "AI&DS",
+    "gender": "M"
+  },
+  { "id": "33692", "name": "JARANG VINAYAK", "branch": "AI&DS", "gender": "M" },
+  { "id": "36911", "name": "JINKA NEHA", "branch": "AI&DS", "gender": "F" },
+  {
+    "id": "38587",
+    "name": "PATLORI NEHA REDDY",
+    "branch": "AI&DS",
+    "gender": "F"
+  },
+  {
+    "id": "40400",
+    "name": "VADDE SHIVA KUMAR",
+    "branch": "AI&DS",
+    "gender": "M"
+  },
+  { "id": "40433", "name": "MOHAMMED ADNAN", "branch": "AI&DS", "gender": "M" },
+  { "id": "41573", "name": "SUKTHE NIKHIL", "branch": "AI&DS", "gender": "M" },
+  {
+    "id": "42895",
+    "name": "RYAKALA SAKETH GOUD",
+    "branch": "AI&DS",
+    "gender": "M"
+  },
+  {
+    "id": "42913",
+    "name": "SHAIK GHOUSE MOUDDIN",
+    "branch": "AI&DS",
+    "gender": "M"
+  },
+  {
+    "id": "44281",
+    "name": "MADI REDDY BINDHU SRI REDDY",
+    "branch": "AI&DS",
+    "gender": "F"
+  },
+  { "id": "45392", "name": "JANGAM TAPASWI", "branch": "AI&DS", "gender": "F" },
+  {
+    "id": "54263",
+    "name": "GODARI BALA BHARGAVI",
+    "branch": "AI&DS",
+    "gender": "F"
+  },
+  {
+    "id": "58909",
+    "name": "KADHULURI BHAVANA",
+    "branch": "AI&DS",
+    "gender": "F"
+  },
+  {
+    "id": "60539",
+    "name": "RAJHAMUNDRY JASMI SHARON",
+    "branch": "AI&DS",
+    "gender": "F"
+  },
+  {
+    "id": "60665",
+    "name": "VAMSHI MUDAVATH",
+    "branch": "AI&DS",
+    "gender": "M"
+  },
+  { "id": "61069", "name": "BANOTH JAYANTH", "branch": "AI&DS", "gender": "M" },
+  {
+    "id": "64500",
+    "name": "AENUGU DIVYASREE",
+    "branch": "AI&DS",
+    "gender": "F"
+  },
+  {
+    "id": "64728",
+    "name": "THIMMAPURAM HARSHITHA",
+    "branch": "AI&DS",
+    "gender": "F"
+  },
+  {
+    "id": "64977",
+    "name": "MODEPALLI SRI SATHVIKA",
+    "branch": "AI&DS",
+    "gender": "F"
+  },
+  { "id": "71806", "name": "S S ROHAN", "branch": "AI&DS", "gender": "M" },
+  {
+    "id": "73268",
+    "name": "CHARAN SAI GUNDABATHINA",
+    "branch": "AI&DS",
+    "gender": "M"
+  },
+  { "id": "73301", "name": "SURARAPU SIDHU", "branch": "AI&DS", "gender": "M" },
+  {
+    "id": "75392",
+    "name": "JUNJUNURI VINAY",
+    "branch": "AI&DS",
+    "gender": "M"
+  },
+  { "id": "107663", "name": "MALE MAANSI", "branch": "AI&DS", "gender": "F" },
+  {
+    "id": "119494",
+    "name": "KADIYAM SHAILAJA",
+    "branch": "AI&DS",
+    "gender": "F"
+  },
+  {
+    "id": "10446",
+    "name": "PEDDIREDDY SHANMUK REDDY",
+    "branch": "AI&ML",
+    "gender": "M"
+  },
+  {
+    "id": "13788",
+    "name": "BHEEMINENI SRINATH PAVAN KUMAR",
+    "branch": "AI&ML",
+    "gender": "M"
+  },
+  {
+    "id": "16312",
+    "name": "PATLOLLA SAINISCHAL REDDY",
+    "branch": "AI&ML",
+    "gender": "M"
+  },
+  {
+    "id": "17038",
+    "name": "PRIYAL MANISH NAGDA",
+    "branch": "AI&ML",
+    "gender": "F"
+  },
+  {
+    "id": "17351",
+    "name": "THAMMINENI JAGADISH KUMAR",
+    "branch": "AI&ML",
+    "gender": "M"
+  },
+  {
+    "id": "17789",
+    "name": "KORRAPOLU SAI AASISH",
+    "branch": "AI&ML",
+    "gender": "M"
+  },
+  {
+    "id": "18431",
+    "name": "GANDHETI SRIVIDYA",
+    "branch": "AI&ML",
+    "gender": "F"
+  },
+  { "id": "19418", "name": "BATTA DEVIKA", "branch": "AI&ML", "gender": "F" },
+  { "id": "20143", "name": "INDU ARJA", "branch": "AI&ML", "gender": "F" },
+  {
+    "id": "20611",
+    "name": "ERAPANENI MANITEJA",
+    "branch": "AI&ML",
+    "gender": "M"
+  },
+  {
+    "id": "22561",
+    "name": "MANCHUKURI SAI KRISHNA",
+    "branch": "AI&ML",
+    "gender": "M"
+  },
+  { "id": "22971", "name": "MARRI POOJITHA", "branch": "AI&ML", "gender": "F" },
+  {
+    "id": "24567",
+    "name": "BOGAVELLI RIKSHITH",
+    "branch": "AI&ML",
+    "gender": "M"
+  },
+  { "id": "27831", "name": "K SREEJA", "branch": "AI&ML", "gender": "F" },
+  {
+    "id": "28518",
+    "name": "DEVULAPALLI KULDEEP",
+    "branch": "AI&ML",
+    "gender": "M"
+  },
+  {
+    "id": "29031",
+    "name": "JANIGORLA SAIKRISHNA",
+    "branch": "AI&ML",
+    "gender": "M"
+  },
+  {
+    "id": "29169",
+    "name": "K LAXMI SANDEEP",
+    "branch": "AI&ML",
+    "gender": "M"
+  },
+  {
+    "id": "29571",
+    "name": "KANNI SHASHANKH VASUDEV",
+    "branch": "AI&ML",
+    "gender": "M"
+  },
+  { "id": "29699", "name": "GUDELLI MANOJ", "branch": "AI&ML", "gender": "M" },
+  { "id": "29762", "name": "K VISHNU TEJA", "branch": "AI&ML", "gender": "M" },
+  {
+    "id": "29887",
+    "name": "LAVANAM SATHWIK",
+    "branch": "AI&ML",
+    "gender": "M"
+  },
+  { "id": "31485", "name": "GOVULA MEENU", "branch": "AI&ML", "gender": "F" },
+  {
+    "id": "31971",
+    "name": "DACHAVARAM SNEHAL PATEL",
+    "branch": "AI&ML",
+    "gender": "M"
+  },
+  { "id": "32205", "name": "SRICHARAN S", "branch": "AI&ML", "gender": "M" },
+  {
+    "id": "35649",
+    "name": "KORUKOPPULA VARUN KRISHNA",
+    "branch": "AI&ML",
+    "gender": "M"
+  },
+  { "id": "37123", "name": "VELDI SRAVANI", "branch": "AI&ML", "gender": "F" },
+  {
+    "id": "37299",
+    "name": "THANNEERU BHANU PRASAD",
+    "branch": "AI&ML",
+    "gender": "M"
+  },
+  {
+    "id": "39683",
+    "name": "BINGI MOKSHAGNA",
+    "branch": "AI&ML",
+    "gender": "M"
+  },
+  {
+    "id": "40016",
+    "name": "GANJI NAGENDHRA PRASAD",
+    "branch": "AI&ML",
+    "gender": "M"
+  },
+  { "id": "43010", "name": "ROUTHU SIRI", "branch": "AI&ML", "gender": "F" },
+  {
+    "id": "43275",
+    "name": "ALGOTE MANIDEEP",
+    "branch": "AI&ML",
+    "gender": "M"
+  },
+  {
+    "id": "44400",
+    "name": "DEGALA NAGALAKSHMI SHREYA",
+    "branch": "AI&ML",
+    "gender": "F"
+  },
+  { "id": "45291", "name": "GAJULA CHANDRA", "branch": "AI&ML", "gender": "M" },
+  {
+    "id": "45563",
+    "name": "GOURIDEVI THARUN PREETHAM",
+    "branch": "AI&ML",
+    "gender": "M"
+  },
+  {
+    "id": "50512",
+    "name": "CHOPPA ROHITHKRISHNACHAITANYASRIRANGASWAMY",
+    "branch": "AI&ML",
+    "gender": "M"
+  },
+  {
+    "id": "51787",
+    "name": "RUDRAVARAM SHIVA",
+    "branch": "AI&ML",
+    "gender": "M"
+  },
+  { "id": "52331", "name": "GHANTA SAKETH", "branch": "AI&ML", "gender": "M" },
+  { "id": "55044", "name": "SATLA RISHI", "branch": "AI&ML", "gender": "M" },
+  {
+    "id": "64088",
+    "name": "KORRA ROHITH KUMAR",
+    "branch": "AI&ML",
+    "gender": "M"
+  },
+  { "id": "65533", "name": "SHAIK ANAS", "branch": "AI&ML", "gender": "M" },
+  {
+    "id": "65780",
+    "name": "KADAVATH VAMSHI KRISHNA",
+    "branch": "AI&ML",
+    "gender": "M"
+  },
+  { "id": "66928", "name": "YADA MAMATHA", "branch": "AI&ML", "gender": "F" },
+  {
+    "id": "70864",
+    "name": "KAMATAM PREM ANURAGH",
+    "branch": "AI&ML",
+    "gender": "M"
+  },
+  { "id": "72683", "name": "TANUJA MAURYA", "branch": "AI&ML", "gender": "F" },
+  {
+    "id": "88371",
+    "name": "PALAPARTHY SUDEEPTHI",
+    "branch": "AI&ML",
+    "gender": "F"
+  },
+  {
+    "id": "116820",
+    "name": "DASARI SUSHMITHA SREE",
+    "branch": "AI&ML",
+    "gender": "F"
+  },
+  { "id": "120818", "name": "N ANURADHA", "branch": "AI&ML", "gender": "F" },
+  {
+    "id": "10784",
+    "name": "ALLA BHUVANA NAGA SAI",
+    "branch": "CSD",
+    "gender": "F"
+  },
+  { "id": "11024", "name": "SRIPADA MANJARI", "branch": "CSD", "gender": "F" },
+  { "id": "12131", "name": "N SAI PRIYANK", "branch": "CSD", "gender": "M" },
+  {
+    "id": "12392",
+    "name": "BARLA SRISHA REDDY",
+    "branch": "CSD",
+    "gender": "F"
+  },
+  {
+    "id": "13732",
+    "name": "INDUKURI KARTHIK VARMA",
+    "branch": "CSD",
+    "gender": "M"
+  },
+  {
+    "id": "13822",
+    "name": "BASIMI NARENDRA KUMAR",
+    "branch": "CSD",
+    "gender": "M"
+  },
+  {
+    "id": "13982",
+    "name": "PATCHAVA KOUSHIK CHOWDARY",
+    "branch": "CSD",
+    "gender": "M"
+  },
+  {
+    "id": "14550",
+    "name": "SRIPURAM SUPRITHA",
+    "branch": "CSD",
+    "gender": "F"
+  },
+  {
+    "id": "15731",
+    "name": "CHAKKA VENKATA SRIRAM",
+    "branch": "CSD",
+    "gender": "M"
+  },
+  {
+    "id": "17550",
+    "name": "MARAPELLI SAMITH REDDY",
+    "branch": "CSD",
+    "gender": "M"
+  },
+  { "id": "17807", "name": "MAMINDLA ABHIRAM", "branch": "CSD", "gender": "M" },
+  {
+    "id": "18001",
+    "name": "GOTTIKARLAPALLY VINAY REDDY",
+    "branch": "CSD",
+    "gender": "M"
+  },
+  { "id": "18111", "name": "GUJJULA SRINITHA", "branch": "CSD", "gender": "F" },
+  {
+    "id": "18136",
+    "name": "PAPAIAHGARI AKSHAY KUMAR REDDY",
+    "branch": "CSD",
+    "gender": "M"
+  },
+  {
+    "id": "18263",
+    "name": "PESARU LAXMI PRASANNA",
+    "branch": "CSD",
+    "gender": "F"
+  },
+  { "id": "18273", "name": "KUNCHAM LIKHITH", "branch": "CSD", "gender": "M" },
+  { "id": "18727", "name": "O SAI RISHI", "branch": "CSD", "gender": "M" },
+  {
+    "id": "19650",
+    "name": "G CHAITANYA VISHNU KANTH REDDY",
+    "branch": "CSD",
+    "gender": "M"
+  },
+  {
+    "id": "20395",
+    "name": "TALLAPALLI RAKESH",
+    "branch": "CSD",
+    "gender": "M"
+  },
+  {
+    "id": "21146",
+    "name": "SRIRAMADASU SIDDESHWARA CHARY",
+    "branch": "CSD",
+    "gender": "M"
+  },
+  { "id": "21342", "name": "ADIMI CHANDANA", "branch": "CSD", "gender": "F" },
+  {
+    "id": "21672",
+    "name": "VORUGANTI HARSHITHA",
+    "branch": "CSD",
+    "gender": "F"
+  },
+  { "id": "21978", "name": "ANUGU CHAITHANYA", "branch": "CSD", "gender": "M" },
+  {
+    "id": "22664",
+    "name": "NAGAPURI SAI KUMAR",
+    "branch": "CSD",
+    "gender": "M"
+  },
+  {
+    "id": "24248",
+    "name": "DYAVANPALLY SAI CHANDRA",
+    "branch": "CSD",
+    "gender": "M"
+  },
+  { "id": "24878", "name": "NELLI VARSHITHA", "branch": "CSD", "gender": "F" },
+  { "id": "25306", "name": "GANAGANI SANJAY", "branch": "CSD", "gender": "M" },
+  {
+    "id": "25974",
+    "name": "MAMIDISETTY TEJASWINI",
+    "branch": "CSD",
+    "gender": "F"
+  },
+  {
+    "id": "26387",
+    "name": "MUKKAMULA SAI KUMAR",
+    "branch": "CSD",
+    "gender": "M"
+  },
+  {
+    "id": "26977",
+    "name": "GUDIKANDULA SRIJA",
+    "branch": "CSD",
+    "gender": "F"
+  },
+  {
+    "id": "28085",
+    "name": "TAMALAPAKULA MEENA",
+    "branch": "CSD",
+    "gender": "F"
+  },
+  { "id": "31115", "name": "MOHAMMAD MUJEEB", "branch": "CSD", "gender": "M" },
+  {
+    "id": "31598",
+    "name": "NADAKUDITI DEVENDHAR RAJU",
+    "branch": "CSD",
+    "gender": "M"
+  },
+  {
+    "id": "33190",
+    "name": "SRIMARTHI RAJENDAR",
+    "branch": "CSD",
+    "gender": "M"
+  },
+  {
+    "id": "37051",
+    "name": "YUJEEB ABBAS KASHANI",
+    "branch": "CSD",
+    "gender": "M"
+  },
+  {
+    "id": "42171",
+    "name": "KINDIDODDI MOJESH",
+    "branch": "CSD",
+    "gender": "M"
+  },
+  {
+    "id": "42952",
+    "name": "VOTARIKARI SAIPREETHAM",
+    "branch": "CSD",
+    "gender": "M"
+  },
+  { "id": "43495", "name": "BANOTH VISHNU", "branch": "CSD", "gender": "M" },
+  { "id": "46421", "name": "GOSHKE ANKITHA", "branch": "CSD", "gender": "F" },
+  {
+    "id": "50140",
+    "name": "PARIKIRALA KAVYASRI",
+    "branch": "CSD",
+    "gender": "F"
+  },
+  { "id": "50313", "name": "G KINGSTON", "branch": "CSD", "gender": "M" },
+  {
+    "id": "55150",
+    "name": "GANDAMALLA SURYA TEJA",
+    "branch": "CSD",
+    "gender": "M"
+  },
+  { "id": "65890", "name": "Y JAYALAXMI", "branch": "CSD", "gender": "F" },
+  {
+    "id": "70520",
+    "name": "KANDRU SHIRLEY KATHERINE",
+    "branch": "CSD",
+    "gender": "F"
+  },
+  {
+    "id": "77920",
+    "name": "MOHAMMAD SONU THAHREEN",
+    "branch": "CSD",
+    "gender": "F"
+  },
+  {
+    "id": "92978",
+    "name": "PRANEETH KUMAR KATIKANENI",
+    "branch": "CSD",
+    "gender": "M"
+  },
+  {
+    "id": "120308",
+    "name": "BONAGIRI MYTHILY",
+    "branch": "CSD",
+    "gender": "F"
+  },
+  {
+    "id": "9492396365",
+    "name": "PONNAM SINDHU",
+    "branch": "CIV",
+    "gender": "F"
+  },
+  {
+    "id": "8919069265",
+    "name": "VANGIPURAPU SRI HARSHA",
+    "branch": "CIV",
+    "gender": "M"
+  },
+  {
+    "id": "9701244785",
+    "name": "KOLALA REVAN GOUD",
+    "branch": "CIV",
+    "gender": "M"
+  },
+  {
+    "id": "9010529042",
+    "name": "SINGIREDDY HARISH REDDY",
+    "branch": "CIV",
+    "gender": "M"
+  },
+  {
+    "id": "8919190156",
+    "name": "SHAIK INODDIN",
+    "branch": "CIV",
+    "gender": "M"
+  },
+  {
+    "id": "9849772963",
+    "name": "VALLEPU RAKESH",
+    "branch": "CIV",
+    "gender": "M"
+  },
+  {
+    "id": "9949126910",
+    "name": "GOSKULA MAHESH",
+    "branch": "CIV",
+    "gender": "M"
+  },
+  {
+    "id": "9949338561",
+    "name": "ANDE KARTHIK",
+    "branch": "CIV",
+    "gender": "M"
+  },
+  {
+    "id": "9885713015",
+    "name": "VADDAPALLY SRIMUKTHA",
+    "branch": "CIV",
+    "gender": "F"
+  },
+  {
+    "id": "9440955428",
+    "name": "GURRALA BALA KRISHNA",
+    "branch": "CIV",
+    "gender": "M"
+  },
+  {
+    "id": "9490204121",
+    "name": "BAKKI VEDANTH YADAV",
+    "branch": "CIV",
+    "gender": "M"
+  },
+  {
+    "id": "9849443202",
+    "name": "BHEEMANGARI  SOMRATHAN REDDY",
+    "branch": "CIV",
+    "gender": "M"
+  },
+  {
+    "id": "9704944342",
+    "name": "P VAMSHI KRISHNA",
+    "branch": "CIV",
+    "gender": "M"
+  },
+  {
+    "id": "9959037571",
+    "name": "BOYA PRAJAWALITHA",
+    "branch": "CIV",
+    "gender": "F"
+  },
+  {
+    "id": "7981561525",
+    "name": "VANATHADUPULA SANJAY KUMAR",
+    "branch": "CIV",
+    "gender": "M"
+  },
+  {
+    "id": "9573758555",
+    "name": "ALLADI SHIVA KUMAR YADAV",
+    "branch": "CIV",
+    "gender": "M"
+  },
+  {
+    "id": "8179969837",
+    "name": "POOSA DEEKSHITH",
+    "branch": "CIV",
+    "gender": "M"
+  },
+  {
+    "id": "9390248614",
+    "name": "DAVANABOINA ANAND YADAV",
+    "branch": "CIV",
+    "gender": "M"
+  },
+  {
+    "id": "9390708451",
+    "name": "ALLADI OM PRAKASH YADAV",
+    "branch": "CIV",
+    "gender": "M"
+  },
+  {
+    "id": "9618338331",
+    "name": "PALLIKONDA PRANETH KUMAR",
+    "branch": "EEE",
+    "gender": "M"
+  },
+  {
+    "id": "9502000840",
+    "name": "POTHARLA MANICHARAN",
+    "branch": "EEE",
+    "gender": "M"
+  },
+  {
+    "id": "9823049256",
+    "name": "SAYALI KACHWAH",
+    "branch": "EEE",
+    "gender": "F"
+  },
+  {
+    "id": "9441402656",
+    "name": "MADAM VIGNESH",
+    "branch": "EEE",
+    "gender": "M"
+  },
+  {
+    "id": "6281143045",
+    "name": "J PAVAN CHANDU",
+    "branch": "EEE",
+    "gender": "M"
+  },
+  { "id": "7729874353", "name": "CK TARUN", "branch": "EEE", "gender": "M" },
+  {
+    "id": "6309887453",
+    "name": "BANOTH LIKHITHA",
+    "branch": "EEE",
+    "gender": "F"
+  },
+  {
+    "id": "9010068387",
+    "name": "BODA DIVYASRI",
+    "branch": "EEE",
+    "gender": "F"
+  },
+  { "id": "8106053980", "name": "EARU HARISH", "branch": "EEE", "gender": "M" },
+  {
+    "id": "9704212814",
+    "name": "BONAGIRI DEVENDHAR",
+    "branch": "EEE",
+    "gender": "M"
+  },
+  {
+    "id": "9441376551",
+    "name": "DAYALA SAI VINEETH",
+    "branch": "EEE",
+    "gender": "M"
+  },
+  { "id": "9912824551", "name": "BURRA VINAY", "branch": "EEE", "gender": "M" },
+  {
+    "id": "9490217463",
+    "name": "SAI SRINIVASA ANIRUDH PARIMI",
+    "branch": "EEE",
+    "gender": "M"
+  },
+  {
+    "id": "9676585358",
+    "name": "PONNA GOUTHAM",
+    "branch": "EEE",
+    "gender": "M"
+  },
+  {
+    "id": "9705938836",
+    "name": "MOHAMMED RIZWAN ALI",
+    "branch": "EEE",
+    "gender": "M"
+  },
+  {
+    "id": "9652477377",
+    "name": "PARASA SAI RAGHU RAM",
+    "branch": "MECH",
+    "gender": "M"
+  },
+  {
+    "id": "9030469251",
+    "name": "KANALA KUMARA SWAMY",
+    "branch": "MECH",
+    "gender": "M"
+  },
+  {
+    "id": "9849490377",
+    "name": "KATAR SHASHI KIRAN GOUD",
+    "branch": "MECH",
+    "gender": "M"
+  },
+  {
+    "id": "8769485596",
+    "name": "SAURABH GURJAR",
+    "branch": "MECH",
+    "gender": "M"
+  },
+  {
+    "id": "9849650314",
+    "name": "MOHD ABDUL HAFEEZ",
+    "branch": "MECH",
+    "gender": "M"
+  },
+  {
+    "id": "8096313674",
+    "name": "SUKHA KARTHIK",
+    "branch": "MECH",
+    "gender": "M"
+  },
+  {
+    "id": "9849653548",
+    "name": "BATHULA KISHORE",
+    "branch": "MECH",
+    "gender": "M"
+  },
+  {
+    "id": "9490256856",
+    "name": "ANNAVENI SAGAR",
+    "branch": "MECH",
+    "gender": "M"
+  },
+  {
+    "id": "9494045769",
+    "name": "SATHENAPALLI HARSHITH SAI",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "9441631035",
+    "name": "MATHER SHIVANI",
+    "branch": "ECE",
+    "gender": "F"
+  },
+  {
+    "id": "7774930059",
+    "name": "PULI USHA KIRAN",
+    "branch": "ECE",
+    "gender": "F"
+  },
+  {
+    "id": "9440017351",
+    "name": "YEMPALLY AJAY KUMAR",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  { "id": "9398876783", "name": "R SHIREESHA", "branch": "ECE", "gender": "F" },
+  {
+    "id": "9985589589",
+    "name": "AKULA KUSHENDRA  TEJA",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  { "id": "9954855147", "name": "AJAY BISHT", "branch": "ECE", "gender": "M" },
+  {
+    "id": "9441203651",
+    "name": "GAJULA SWEJAN",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "9959923585",
+    "name": "HIMAKARA SATHVIK KANCHARLAPALLY",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  { "id": "9949989323", "name": "NITIN GOJE", "branch": "ECE", "gender": "M" },
+  {
+    "id": "9441610746",
+    "name": "TSAVALAM KUMAR SAI SRIRAM",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "8790421444",
+    "name": "PEDDAGOLLA  SAI  CHARAN",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "9908247225",
+    "name": "JONIPELLY NAVANEETH RAO",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  { "id": "9849227157", "name": "ANUHYA ANNE", "branch": "ECE", "gender": "F" },
+  {
+    "id": "9573378303",
+    "name": "MITTAPALLI UDAY  KUMAR",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "9849649171",
+    "name": "SAI RAGA SINDHU SREE BARJI",
+    "branch": "ECE",
+    "gender": "F"
+  },
+  {
+    "id": "9293904567",
+    "name": "KUDARAVALLI BHARGAV KRISHNA",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "9848994377",
+    "name": "SAMA  KIRODHER REDDY",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "9848791602",
+    "name": "VADAKATTU ABHEEK",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "9676705057",
+    "name": "SATHUGARI ASHWITHA REDDY",
+    "branch": "ECE",
+    "gender": "F"
+  },
+  {
+    "id": "9290065052",
+    "name": "MANGOLLA SAI PRASHANTH",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "6281677338",
+    "name": "YERASI KRISHNA NARASIMHA REDDY",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "9499410542",
+    "name": "SOURAV DATTATRAY PRATAPWAR",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "9494608705",
+    "name": "ARUKONDA RISHITHA",
+    "branch": "ECE",
+    "gender": "F"
+  },
+  {
+    "id": "8897158646",
+    "name": "POGULA RAHUL",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "6303643075",
+    "name": "KATLA VISHAL",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "9676888896",
+    "name": "KAMMARI ANIL KUMAR",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "9490026282",
+    "name": "YASKI SAHITHI",
+    "branch": "ECE",
+    "gender": "F"
+  },
+  {
+    "id": "9963309781",
+    "name": "THAKKALLAPALLY PRATHUSHA",
+    "branch": "ECE",
+    "gender": "F"
+  },
+  {
+    "id": "9704672045",
+    "name": "KOUNDAL NIKHIL",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "6304574691",
+    "name": "ELLENDULA SRINIVAS",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "9440399679",
+    "name": "MAJJI POTHANA SATYA TEJA",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "9849857598",
+    "name": "CHILUKAMARI KRISHNA TEJA",
+    "branch": "ECE",
+    "gender": "F"
+  },
+  {
+    "id": "9394039337",
+    "name": "ROYYALA PRIYANKA",
+    "branch": "ECE",
+    "gender": "F"
+  },
+  {
+    "id": "9014727838",
+    "name": "BANDARUPALLI NITHISHA",
+    "branch": "ECE",
+    "gender": "F"
+  },
+  {
+    "id": "9963687645",
+    "name": "KODAGANTI PRANEETHA",
+    "branch": "ECE",
+    "gender": "F"
+  },
+  {
+    "id": "7659850995",
+    "name": "RUKESH SAKARABOINA",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "8985714100",
+    "name": "POGULA SHIVAPRASAD",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "8341210308",
+    "name": "DUBAKULA GANESH",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "9989937371",
+    "name": "DASOJU SURAJ",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "9989374819",
+    "name": "PEDDAGONI GOPAL GOUD",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "9553386625",
+    "name": "KOLIPAKA SANJANA",
+    "branch": "ECE",
+    "gender": "F"
+  },
+  {
+    "id": "7286941930",
+    "name": "PAPINNI ALEKHYA",
+    "branch": "ECE",
+    "gender": "F"
+  },
+  {
+    "id": "9849319717",
+    "name": "PASHAPU SARVESH",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "9618562342",
+    "name": "VOJJALA VAISHNAVI",
+    "branch": "ECE",
+    "gender": "F"
+  },
+  {
+    "id": "9290588262",
+    "name": "CHANDRA BALAJI",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "9959143154",
+    "name": "KOTTE VENKATA SAI",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  { "id": "6309479402", "name": "G KAVYA", "branch": "ECE", "gender": "F" },
+  {
+    "id": "9704349913",
+    "name": "ATUKULA UDAY BHASKAR",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "9849895909",
+    "name": "GIMKA VISHWA TEJA SRI",
+    "branch": "ECE",
+    "gender": "F"
+  },
+  {
+    "id": "9963511254",
+    "name": "KOLETI LAXMI PRASANNA",
+    "branch": "ECE",
+    "gender": "F"
+  },
+  {
+    "id": "9866204671",
+    "name": "THATLA RAJ KUMAR",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "8309183881",
+    "name": "HEMANTH VALERU",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "6304827310",
+    "name": "SHAIK AMEESHA",
+    "branch": "ECE",
+    "gender": "F"
+  },
+  {
+    "id": "9966114400",
+    "name": "BASIBOINA AKSHITHA",
+    "branch": "ECE",
+    "gender": "F"
+  },
+  {
+    "id": "9848077323",
+    "name": "CHEEMALA SAI KUMAR",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  { "id": "9030797800", "name": "GOLI LAHARI", "branch": "ECE", "gender": "F" },
+  {
+    "id": "9849732245",
+    "name": "REVOORI RISHIKA REDDY",
+    "branch": "ECE",
+    "gender": "F"
+  },
+  {
+    "id": "9989294132",
+    "name": "RAYAPATI ADARSH",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "9000310183",
+    "name": "PULA GOPI SAI KUMAR",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "8897885097",
+    "name": "JOGI UDAY KIRAN",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "9441646721",
+    "name": "KURAGAYALA PAVAN KUMAR",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "8074741201",
+    "name": "DASARI MADHUMITHA",
+    "branch": "ECE",
+    "gender": "F"
+  },
+  {
+    "id": "9963503020",
+    "name": "VELDI JAYA PRAKASH",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "8978882003",
+    "name": "NUJELLA AAKASH",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "9398243530",
+    "name": "SUDDALA SAI TEJA",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "8897102789",
+    "name": "YALLDASARI SAI ROHITH",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "8886061362",
+    "name": "YELETI SATHVIKA",
+    "branch": "ECE",
+    "gender": "F"
+  },
+  {
+    "id": "9848536930",
+    "name": "PALAGANI VENKATA SHOBANADRI",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "9989066430",
+    "name": "MARTHA KAVYA",
+    "branch": "ECE",
+    "gender": "F"
+  },
+  {
+    "id": "9010932309",
+    "name": "KAVATI GANESH",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "7702173633",
+    "name": "DODLA POOJITHA",
+    "branch": "ECE",
+    "gender": "F"
+  },
+  { "id": "7661085640", "name": "T POOJITHA", "branch": "ECE", "gender": "F" },
+  {
+    "id": "9866829669",
+    "name": "KANDUNOORI SHIVA",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "9493728212",
+    "name": "DEVIREDDY TARUN SAI REDDY",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "9032834217",
+    "name": "SHASHWATH VARMA",
+    "branch": "ECE",
+    "gender": "M"
+  },
+  {
+    "id": "9441525551",
+    "name": "NAMPALLY SIDDHARTHA",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "9676446515",
+    "name": "MANDHUMULA DEEPAK",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "9848926284",
+    "name": "GUNDLA VAMSHIDHAR",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "9493041788",
+    "name": "VAGUAMRI SRINANDHAN",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "6302229658",
+    "name": "KOLAN SAHASRA REDDY",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  {
+    "id": "9494965617",
+    "name": "GAJULA NAVANEETH",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "9440968328",
+    "name": "SIDDAMSHETTI SUMITH",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "8317634327",
+    "name": "TUSHAR PUNIA",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "9492742849",
+    "name": "GANDRATH SRI YAGNA",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "9532982076",
+    "name": "ABHISHEK KUMAR SINGH",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "9246193604",
+    "name": "NALIMELA JITHIN REDDY",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "9550623798",
+    "name": "ROHAN SACHIN RAKHE",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "9491587962",
+    "name": "LOKOTI SRICHARAN",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "9679717821",
+    "name": "K ZAYD AHMED",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "9866852038",
+    "name": "KARRA VINAY REDDY",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "7569982570",
+    "name": "PATLOLLA ABHISHEK",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "6302865949",
+    "name": "BIJJAM SOUMIKA",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  {
+    "id": "9346907688",
+    "name": "PEDDI PRAVALIKA REDDY",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  {
+    "id": "9490031006",
+    "name": "VEERELLI SAIVENKATA REDDY",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "9492278267",
+    "name": "K SRI HARINI",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  {
+    "id": "8155087352",
+    "name": "SAPNA TIWARI",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  {
+    "id": "9908907799",
+    "name": "MADIRA SAI RISHITHA",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  {
+    "id": "9985389822",
+    "name": "U NAGA MANASWINI",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  {
+    "id": "9989486761",
+    "name": "NITYANANDAYYA MATHPATHI",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "9441778798",
+    "name": "MALLELA SINDHUJA",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  {
+    "id": "9640827661",
+    "name": "DEEKONDA SAKETH",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "9440980118",
+    "name": "SINGIREDDY HARSHITHA REDDY",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  {
+    "id": "9866329127",
+    "name": "TUMMALA VENGAL RAYUDU",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "8605224009",
+    "name": "OJAS RAKESH GARPALLIWAR",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "7729994756",
+    "name": "BAJRANG HARSH SINGH",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "9885658104",
+    "name": "KRITIKA KHATRI",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  {
+    "id": "9440255505",
+    "name": "KASANAGOTTU AMULYA",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  {
+    "id": "9866436784",
+    "name": "KALLURI THANMAI",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  {
+    "id": "9705155994",
+    "name": "VADDI RISHIKA",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  {
+    "id": "9866056301",
+    "name": "KUDUMULA ANVESH REDDY",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "9030461612",
+    "name": "POSHETTY VARSHITH",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "8106668800",
+    "name": "BONDALA SRINATH",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "9490675505",
+    "name": "CHEPYALA SATHWIK REDDY",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "9000044994",
+    "name": "PODDUTURI NITHIN REDDY",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "9396430607",
+    "name": "POTRU SAI NITISH",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "9441277478",
+    "name": "TUDURU SATHWIK",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "9100048967",
+    "name": "GANGASANI SHANKARSHAN",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "9666004455",
+    "name": "NALLAKULA KIRANKUMAR",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "9701160001",
+    "name": "DIVYA GAUTAM",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  {
+    "id": "9949961122",
+    "name": "MOHAMMED SAMEER ALI",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "9642448282",
+    "name": "GURRAM KRISHNA PRASANTH CHOWDARY",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  { "id": "8919219308", "name": "AKSHAT KALA", "branch": "CSE", "gender": "M" },
+  {
+    "id": "9490958156",
+    "name": "AMBATI ROHITH RAJU",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "8179382497",
+    "name": "SOMU KOTESWARA REDDY",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "9959534332",
+    "name": "PULIGILLA SAI SIDDU",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "9963595582",
+    "name": "BUNNI SHARANYA",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  {
+    "id": "9849205534",
+    "name": "K RITIKA REDDY",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  {
+    "id": "9848516646",
+    "name": "DODDI SAI PHANI HARI CHANDANA",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  {
+    "id": "9505563630",
+    "name": "MANCHI AKSHAYA",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  {
+    "id": "9441272858",
+    "name": "BASAR SHYAM SUNDER RAO",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "9705000420",
+    "name": "VEMULA PRIYA PRAMIDHA",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  {
+    "id": "9441908672",
+    "name": "ALLURI SAI SATHWIK REDDY",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "8886010789",
+    "name": "BUSSA TEJASWINI",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  {
+    "id": "9392476988",
+    "name": "KANTU ANANTHKUMAR",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "9441475792",
+    "name": "DASARI HARINI",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  {
+    "id": "9705511150",
+    "name": "SHESHAVAMATAM SUCHIT PAUL",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "9177401547",
+    "name": "KANUGO NESHIT RAJ",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "9849537527",
+    "name": "DASI RASHMIKA",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  {
+    "id": "6305417166",
+    "name": "MANDA VIGHNESHWARA REDDY",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  { "id": "9849648971", "name": "SHREYA M", "branch": "CSE", "gender": "F" },
+  {
+    "id": "8099102735",
+    "name": "ALETI ASHWITHA REDDY",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  {
+    "id": "9177121730",
+    "name": "THOTA MAHESHWARI",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  {
+    "id": "9246481150",
+    "name": "BATTU VICTOR DINAKAR BABU",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "9000622665",
+    "name": "MOHAMMED ABDUL SAMEER",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "9441577322",
+    "name": "SEELAMSETTY PRASANNA GAYATHRI",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  {
+    "id": "9550099600",
+    "name": "SAMA  SRAVAN KUMAR REDDY",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "8497976030",
+    "name": "RITVIK PRATHAPANI",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  { "id": "8500508182", "name": "ANUJ KUMAR", "branch": "CSE", "gender": "M" },
+  { "id": "9052440390", "name": "S VARUN", "branch": "CSE", "gender": "M" },
+  {
+    "id": "9948259345",
+    "name": "PULI  PRANEETH GOUD",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "9866562535",
+    "name": "THALLEM GEETHAN",
+    "branch": "CSE",
+    "gender": "M"
+  },
+  {
+    "id": "9704791050",
+    "name": "KOPPULA  VENKATA SAI NANDINI",
+    "branch": "CSE",
+    "gender": "F"
+  },
+  {
+    "id": "9866345192",
+    "name": "VEMURI LAKSHMI SAMHITA",
+    "branch": "CSC",
+    "gender": "F"
+  },
+  {
+    "id": "9247742292",
+    "name": "THOTA HITESH KUMAR",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  {
+    "id": "8333094466",
+    "name": "BHONAGIRI ANOOSH SAI",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  {
+    "id": "9398059580",
+    "name": "AAKULA SRIDEEP",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  {
+    "id": "9849300071",
+    "name": "GATTU ROHAN GOUD",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  {
+    "id": "9381754695",
+    "name": "BOMMU LAXMINARASIMHA REDDY",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  {
+    "id": "9347346059",
+    "name": "VANGETI SHARANYA",
+    "branch": "CSC",
+    "gender": "F"
+  },
+  {
+    "id": "9533324771",
+    "name": "CHIRLA MANISH REDDY",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  {
+    "id": "7842510891",
+    "name": "MOHAMMAD SOHAIL BAIG",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  {
+    "id": "9963273688",
+    "name": "CHADA KRUTHIK REDDY",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  {
+    "id": "9160274685",
+    "name": "GOLLA VENKATA SIVA SAI RAM",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  {
+    "id": "9492396806",
+    "name": "PANDA SUBHASREE SUCHISMITA",
+    "branch": "CSC",
+    "gender": "F"
+  },
+  {
+    "id": "9440406037",
+    "name": "GADDI SACHURYA",
+    "branch": "CSC",
+    "gender": "F"
+  },
+  {
+    "id": "9959615848",
+    "name": "BOJJA RASHMIKA",
+    "branch": "CSC",
+    "gender": "F"
+  },
+  {
+    "id": "9989375829",
+    "name": "YELLU SHASHIKUMAR REDDY",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  {
+    "id": "9908901220",
+    "name": "BINGI AJAY KUMAR",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  {
+    "id": "9908422271",
+    "name": "GATTU SHIVA SAI",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  {
+    "id": "9848005666",
+    "name": "YADA SUPRIYA",
+    "branch": "CSC",
+    "gender": "F"
+  },
+  {
+    "id": "9346494854",
+    "name": "BELDHE SATHVIKA",
+    "branch": "CSC",
+    "gender": "F"
+  },
+  { "id": "9491872691", "name": "ANIK NATH", "branch": "CSC", "gender": "M" },
+  {
+    "id": "7842535059",
+    "name": "KAIYATHI SRIVARDHAN REDDY",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  {
+    "id": "9491176486",
+    "name": "YARASINGU VENGAMAMBA SNEHA",
+    "branch": "CSC",
+    "gender": "F"
+  },
+  {
+    "id": "9908812700",
+    "name": "YERRANNAGARI KARTHIK REDDY",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  {
+    "id": "9848032515",
+    "name": "KALA SAI SRI HARI",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  {
+    "id": "9182674969",
+    "name": "ADITHYA RAVINDRAN",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  {
+    "id": "9908265144",
+    "name": "MANGALI NAVEEN KUMAR",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  {
+    "id": "9866774252",
+    "name": "THOTA TANY KUMAR",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  {
+    "id": "9866398996",
+    "name": "KUKUNURU VINESH",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  {
+    "id": "9949879531",
+    "name": "KUNDAM SAI SHANMUKH",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  {
+    "id": "9704715412",
+    "name": "DASARI VARUN REDDY",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  {
+    "id": "9849723983",
+    "name": "MOHAMMAD SAMEER ALI",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  { "id": "9638077277", "name": "ABHI BHUT", "branch": "CSC", "gender": "M" },
+  {
+    "id": "9948886391",
+    "name": "RAGEERU SURESH",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  {
+    "id": "9985119833",
+    "name": "MOHAMMED RAYYAN TAHER ALI",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  {
+    "id": "7893026754",
+    "name": "PATLOLLA ABHISHEK",
+    "branch": "CSC",
+    "gender": "M"
+  },
+  {
+    "id": "9948443449",
+    "name": "MANDAPATI YASWANTH VENKATA REDDY",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "8247263354",
+    "name": "SHANIVENDRAM NIHARIKA",
+    "branch": "CSM",
+    "gender": "F"
+  },
+  {
+    "id": "9440168154",
+    "name": "YAMMANURU SRAVYA",
+    "branch": "CSM",
+    "gender": "F"
+  },
+  {
+    "id": "9652077077",
+    "name": "SATHHU NAVEEN",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "9494929581",
+    "name": "ROHIT KUMAR OJHA",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  { "id": "9949035037", "name": "K KRUTHIKA", "branch": "CSM", "gender": "F" },
+  {
+    "id": "9490162919",
+    "name": "H MAHENDRA SUSHANTH",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "9398394798",
+    "name": "BALKI  ANURAG",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "7702200153",
+    "name": "KODAKALLA VENKATA LAHARIKRISHANA",
+    "branch": "CSM",
+    "gender": "F"
+  },
+  {
+    "id": "9849481939",
+    "name": "PIDUGU VARSHITH TEJA",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "9866558121",
+    "name": "GANESULA LAKSHMI LAHARI",
+    "branch": "CSM",
+    "gender": "F"
+  },
+  {
+    "id": "9948314157",
+    "name": "ANUMAS RAGHU SIDDARTHA  REDDY",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "7893094997",
+    "name": "SHIRVA SIDDHARTH RAO",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "8143362027",
+    "name": "SOWMYA IKKURTI",
+    "branch": "CSM",
+    "gender": "F"
+  },
+  {
+    "id": "9866524009",
+    "name": "JAYANTHI SAI CHARAN",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "9440029557",
+    "name": "KURAGAYALA MANI KOUSHIK",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "8977300809",
+    "name": "THOKALA SRIRAM",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "9347837998",
+    "name": "ABDUL QHAYAM",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "9441731867",
+    "name": "THOGITI MANIDEEP KUMAR",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "9291372936",
+    "name": "G SAI SUSHANTH",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "9949868294",
+    "name": "MUSINI BHAVANA",
+    "branch": "CSM",
+    "gender": "F"
+  },
+  {
+    "id": "9502722840",
+    "name": "MOHAMMED ARSHAD HUSSAIN",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "9440413988",
+    "name": "LINGALA SIRI",
+    "branch": "CSM",
+    "gender": "F"
+  },
+  {
+    "id": "8688265606",
+    "name": "GAJULA CHANDRA",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "9059536211",
+    "name": "MANDADI INDRASENA REDDY",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "9652182681",
+    "name": "VINITH  ARYA",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "9866898468",
+    "name": "TUMMA SAI TEJA",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "9705719524",
+    "name": "SATYAM SHUKLA",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "9440202831",
+    "name": "NAYINI KALYAN REDDY",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "9346957020",
+    "name": "CHOKKARAJU BABY SHALINI",
+    "branch": "CSM",
+    "gender": "F"
+  },
+  {
+    "id": "9908812137",
+    "name": "GADDAM BHANUTEJ REDDY",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "9247239556",
+    "name": "YEDULA NIRMAL ADITYA",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "9059584111",
+    "name": "GUNISHETTI SAI TEJA",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "9618450984",
+    "name": "MANDA SUNNY PREETHAM",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "9678682274",
+    "name": "AGOLAPU AMULYA",
+    "branch": "CSM",
+    "gender": "F"
+  },
+  {
+    "id": "9110742125",
+    "name": "CHANDRA SHRIYA",
+    "branch": "CSM",
+    "gender": "F"
+  },
+  {
+    "id": "7989732130",
+    "name": "UPPALA SAI ASHISH",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "9866610850",
+    "name": "BILLA SANKEERTH REDDY",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "9441204037",
+    "name": "YATHARLA VIKAS REDDY",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "9959529503",
+    "name": "KODAKANDLA SIDHARTH REDDY",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "9246373672",
+    "name": "YOGESH KUMAR SHARMA",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "9951832739",
+    "name": "AKULA RADHAN KUMAR",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "7997555456",
+    "name": "SRIVATSAVAI JASHWANTH VARMA",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "9440362587",
+    "name": "PALTHI SAI SHIVANTH",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "9030064006",
+    "name": "GOTLA YASHWANTH YADAV",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "9396402541",
+    "name": "KOLLURI VAMSHI KRISHNA",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "9666173870",
+    "name": "RONDLA SAI VAMSHIDHAR REDDY",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "9666657058",
+    "name": "GUDIPATI ROSHITH REDDY",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "9666657059",
+    "name": "NAREDLA SHIVAMANI",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "9959415876",
+    "name": "GODAVARI PHANINDRA",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "8978801122",
+    "name": "AENUGULA HEMAVARDHAN REDDY",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "7075089628",
+    "name": "MEKA VISHNUVARDHAN REDDY",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "9533698342",
+    "name": "TUSHAR LOHAN",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "9676564437",
+    "name": "AVULA KRISHNA CHAITANYA",
+    "branch": "CSM",
+    "gender": "M"
+  },
+  {
+    "id": "9908773578",
+    "name": "KANDHUKURI BALA MANOHAR",
+    "branch": "AI&DS",
+    "gender": "M"
+  },
+  {
+    "id": "9989657705",
+    "name": "THUMMALA MOHANA",
+    "branch": "AI&DS",
+    "gender": "F"
+  },
+  {
+    "id": "9441510914",
+    "name": "MANIK KASHIKAR",
+    "branch": "AI&DS",
+    "gender": "M"
+  },
+  {
+    "id": "9390713958",
+    "name": "BOLLA SHETTY UTKARSH",
+    "branch": "AI&DS",
+    "gender": "M"
+  },
+  {
+    "id": "9985326446",
+    "name": "MUKTHA GHOSH",
+    "branch": "AI&DS",
+    "gender": "F"
+  },
+  {
+    "id": "9440786350",
+    "name": "PENDAM SALONI",
+    "branch": "AI&DS",
+    "gender": "F"
+  },
+  {
+    "id": "9989606705",
+    "name": "GADE SINDHU",
+    "branch": "AI&DS",
+    "gender": "F"
+  },
+  {
+    "id": "9030090056",
+    "name": "SRI VAISHNVAI  KODURI",
+    "branch": "AI&DS",
+    "gender": "F"
+  },
+  {
+    "id": "9121377207",
+    "name": "PEDAPATI VENKAT SUSHEEL KUMAR",
+    "branch": "AI&DS",
+    "gender": "M"
+  },
+  {
+    "id": "7989945396",
+    "name": "PENUMAKA SESHA SAI ADITYA",
+    "branch": "AI&DS",
+    "gender": "M"
+  },
+  {
+    "id": "9440708283",
+    "name": "THOTA SOWMYA",
+    "branch": "AI&DS",
+    "gender": "F"
+  },
+  {
+    "id": "9440696939",
+    "name": "YASA ABHINAY",
+    "branch": "AI&ML",
+    "gender": "M"
+  },
+  {
+    "id": "9885265885",
+    "name": "MANNE CHAKRADHAR",
+    "branch": "AI&ML",
+    "gender": "M"
+  },
+  {
+    "id": "9704463321",
+    "name": "MADDISETTI NITHIN KRISHNA",
+    "branch": "AI&ML",
+    "gender": "M"
+  },
+  {
+    "id": "9550494722",
+    "name": "MAMIDIPALLY DEVAVRATH",
+    "branch": "AI&ML",
+    "gender": "M"
+  },
+  {
+    "id": "9848740637",
+    "name": "GANNU CHAITANYA REDDY",
+    "branch": "AI&ML",
+    "gender": "M"
+  },
+  {
+    "id": "9542978979",
+    "name": "GAINABOINA MADHU",
+    "branch": "AI&ML",
+    "gender": "M"
+  },
+  {
+    "id": "9032522994",
+    "name": "ANNOJI SHIVAS",
+    "branch": "AI&ML",
+    "gender": "M"
+  },
+  {
+    "id": "9490468825",
+    "name": "B SIDDHARTH",
+    "branch": "AI&ML",
+    "gender": "M"
+  },
+  {
+    "id": "8341614426",
+    "name": "MULE MAHESHWAR REDDY",
+    "branch": "AI&ML",
+    "gender": "M"
+  },
+  {
+    "id": "9949909450",
+    "name": "MUKTALA CHANDRAKANTH",
+    "branch": "AI&ML",
+    "gender": "M"
+  },
+  {
+    "id": "9866537966",
+    "name": "NAREDDY SRINIDH REDDY",
+    "branch": "AI&ML",
+    "gender": "M"
+  },
+  {
+    "id": "9949028803",
+    "name": "SHAIK FAREED",
+    "branch": "AI&ML",
+    "gender": "M"
+  },
+  {
+    "id": "9989596138",
+    "name": "BEDUOORI PUSHPA",
+    "branch": "AI&ML",
+    "gender": "F"
+  },
+  {
+    "id": "9989176599",
+    "name": "BOTTA KRUTIN RAJSHEKAR REDDY",
+    "branch": "AI&ML",
+    "gender": "M"
+  },
+  {
+    "id": "9849250838",
+    "name": "SURAM RASHMITHA REDDY",
+    "branch": "AI&ML",
+    "gender": "F"
+  },
+  {
+    "id": "7013764448",
+    "name": "VANGALA YOGESH",
+    "branch": "AI&ML",
+    "gender": "M"
+  },
+  {
+    "id": "9908113410",
+    "name": "BONTHA RAJASHEKAR",
+    "branch": "CSD",
+    "gender": "M"
+  },
+  {
+    "id": "9948132989",
+    "name": "ANIKE RAM CHARAN REDDY",
+    "branch": "CSD",
+    "gender": "M"
+  },
+  {
+    "id": "9701194977",
+    "name": "SHAFIA AHMADI",
+    "branch": "CSD",
+    "gender": "F"
+  },
+  {
+    "id": "9491137319",
+    "name": "CH CHAITRA SRI VIDYA LAXMI",
+    "branch": "CSD",
+    "gender": "F"
+  },
+  {
+    "id": "9182378587",
+    "name": "BOREDDY HARSHA VARDHAN REDDY",
+    "branch": "CSD",
+    "gender": "M"
+  },
+  {
+    "id": "9347380483",
+    "name": "VORUGANTI NIKITHA",
+    "branch": "CSD",
+    "gender": "F"
+  },
+  {
+    "id": "9440024743",
+    "name": "VADDE SAISHEEL REDDY",
+    "branch": "CSD",
+    "gender": "M"
+  },
+  {
+    "id": "8341955862",
+    "name": "CHERVIRALA VYSHNAVI",
+    "branch": "CSD",
+    "gender": "F"
+  },
+  {
+    "id": "9848641092",
+    "name": "S VINAYAK REDDY",
+    "branch": "CSD",
+    "gender": "M"
+  },
+  {
+    "id": "9440494447",
+    "name": "CHIRANJI RISHIKA",
+    "branch": "CSD",
+    "gender": "F"
+  },
+  {
+    "id": "9848438175",
+    "name": "YENISHETTY UDAY KIRAN",
+    "branch": "CSD",
+    "gender": "M"
+  },
+  {
+    "id": "9866119620",
+    "name": "DOKUR NIKHIL  REDDY",
+    "branch": "CSD",
+    "gender": "M"
+  },
+  {
+    "id": "9866069373",
+    "name": "KOTHA VIVEK VARDHAN REDDY",
+    "branch": "CSD",
+    "gender": "M"
+  },
+  {
+    "id": "9397848481",
+    "name": "BULUSU SATWIK",
+    "branch": "CSD",
+    "gender": "M"
+  },
+  {
+    "id": "9398040959",
+    "name": "CH NAGASAI PUNEETH REDDY",
+    "branch": "CSD",
+    "gender": "M"
+  },
+  {
+    "id": "9951757937",
+    "name": "APPALA SRIJA",
+    "branch": "CSD",
+    "gender": "F"
+  },
+  {
+    "id": "9866049470",
+    "name": "VUYYARI MANUSRI HARSHA",
+    "branch": "CSD",
+    "gender": "M"
+  },
+  {
+    "id": "9603959426",
+    "name": "SHYAMALA SRUTHI",
+    "branch": "CSD",
+    "gender": "F"
+  },
+  {
+    "id": "9440009947",
+    "name": "WAJEEHA SAMREEN",
+    "branch": "CSD",
+    "gender": "F"
+  },
+  {
+    "id": "9440577363",
+    "name": "SRINAND REDDY KALLEDA",
+    "branch": "CSD",
+    "gender": "M"
+  },
+  {
+    "id": "7780170537",
+    "name": "HIMAJA KATIKANENI",
+    "branch": "IT",
+    "gender": "F"
+  },
+  {
+    "id": "9391353918",
+    "name": "K SRIJA REDDY",
+    "branch": "IT",
+    "gender": "F"
+  },
+  {
+    "id": "9949227788",
+    "name": "ABBENDAR SPOORTHI",
+    "branch": "IT",
+    "gender": "F"
+  },
+  {
+    "id": "9493973485",
+    "name": "BODA HRUSHIKESH REDDY",
+    "branch": "IT",
+    "gender": "M"
+  },
+  {
+    "id": "8125720608",
+    "name": "ATI SANDHYA GAYATRI",
+    "branch": "IT",
+    "gender": "F"
+  },
+  {
+    "id": "8639176342",
+    "name": "RAVIPATI SWETHA RATNAM",
+    "branch": "IT",
+    "gender": "F"
+  },
+  {
+    "id": "9494962130",
+    "name": "MANDALI SAKETH",
+    "branch": "IT",
+    "gender": "M"
+  },
+  {
+    "id": "9666837470",
+    "name": "CHANDRA NAVEENA",
+    "branch": "IT",
+    "gender": "F"
+  },
+  {
+    "id": "8688500897",
+    "name": "PAPINENI PHANEENDRA",
+    "branch": "IT",
+    "gender": "M"
+  },
+  {
+    "id": "9908218026",
+    "name": "PALLE BHUVANESHWAR REDDY",
+    "branch": "IT",
+    "gender": "M"
+  },
+  {
+    "id": "7036862060",
+    "name": "KORIPELLI SAMANVI",
+    "branch": "IT",
+    "gender": "F"
+  },
+  { "id": "9440062634", "name": "A.AKHIL GOUD", "branch": "IT", "gender": "M" },
+  {
+    "id": "9948008734",
+    "name": "LAKKIREDDY JAGATH SIMHA REDDY",
+    "branch": "IT",
+    "gender": "M"
+  },
+  {
+    "id": "7842220023",
+    "name": "POSETTY MANI PAVAN",
+    "branch": "IT",
+    "gender": "M"
+  },
+  {
+    "id": "9951156369",
+    "name": "NADEM AKSHAYA",
+    "branch": "IT",
+    "gender": "F"
+  },
+  {
+    "id": "9494273469",
+    "name": "SHIVA SAI MANIKANTA",
+    "branch": "IT",
+    "gender": "M"
+  },
+  {
+    "id": "9391376511",
+    "name": "PITLA VAISHANVI",
+    "branch": "IT",
+    "gender": "F"
+  },
+  {
+    "id": "9948195610",
+    "name": "M.VIKESH REDDY",
+    "branch": "IT",
+    "gender": "M"
+  },
+  {
+    "id": "8639770202",
+    "name": "MUTTAREDDY SAI HARSHA",
+    "branch": "IT",
+    "gender": "M"
+  },
+  {
+    "id": "9908811040",
+    "name": "LLATI ARYAN REDDY",
+    "branch": "IT",
+    "gender": "M"
+  },
+  {
+    "id": "9490534253",
+    "name": "BUDDINENI VISHWAS",
+    "branch": "IT",
+    "gender": "M"
+  }
+]
