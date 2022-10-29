@@ -9,7 +9,7 @@
   "dependencies": {
     "@coreui/react": "^4.4.0",
     "bootstrap": "^5.2.2",
-    "firebase": "^9.5.0",
+    "firebase": "^9.13.0",
     "fuse.js": "^6.4.6",
     "react": "^17.0.0",
     "react-dom": "^17.0.0",

@@ -6,6 +6,9 @@ import "react-dropdown/style.css";
 import { ReactSearchAutocomplete } from "react-search-autocomplete";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Register from "./Register";
+
+import {db} from "./firebase-config";
+import {ref} from "firebase/database";
 // Initialize Firebase
 
 function App() {
@@ -13,9 +16,7 @@ function App() {
   const [department, setDepartment] = useState("");
   const [quota, setQuota] = useState("");
   const [rank, setRank] = useState("");
-  const _handleRank = (e) => {
-    setRank(e.target.value);
-  };
+  const [student, setStudent] = useState("");
   const options = [
     "Computer Science & Engineering (CSE)",
     "Electrical & Electronics Engineering (EEE)",
@@ -38,6 +39,21 @@ function App() {
   const _handleQuota = (e) => {
     setQuota(e.value);
   };
+  const _handleRank = (e) => {
+    setRank(e.target.value);
+  };
+  const _handleConvener = async(e) => {
+    e.preventDefault();
+    var ref=db.ref().orderByChild("rank").equalTo(rank);
+    ref.on("value", function(snapshot) {
+        if (snapshot.exists()) {
+            console.log(snapshot.val());
+        } else {
+            console.log("No data available");
+        }
+    });
+  };
+
 
   // console.log(department);
 
@@ -393,18 +409,11 @@ function App() {
                   <div>
                     <h3>Convener Quota</h3>
                     <label>Please Enter Your Rank: </label>
-                   {/* { <ReactSearchAutocomplete
-                      styling={{
-                        border: "1px solid #1e4160",
-                        borderRadius: "5px",
-                        padding: "10px",
-                        boxShadow: "0px",
-                        color: "#1e4160",
-                        iconColor: "#1e4160",
-                      }}
-                    />} */}
                     <input type="number" onChange={_handleRank} />
-
+                    <br/><br/>
+                    <button type="button" class="btn btn-primary" onClick={_handleConvener}>
+                      Get Details
+                    </button>
                   </div>
                 ) : quota === "Management Quota" ? (
                   <div>
@@ -430,83 +439,7 @@ function App() {
             )}
           </div>
           {/* // end of page_form */}
-          {student && (
-            <div style={{ textAlign: "center" }}>
-              <div class="card">
-                <div class="header2">
-                  <p style={{ margin: "0px" }}>Student Details</p>
-                </div>
-                <div class="container">
-                  <table>
-                    <tr>
-                      <td>Name</td>
-                      <td>{student.name}</td>
-                    </tr>
-                    {student.id.length >= 10 && (
-                      <tr>
-                        <td>Mobile</td>
-                        <td>{student.id}</td>
-                      </tr>
-                    )}
-                    {student.id.length <= 10 && (
-                      <tr>
-                        <td>Rank</td>
-                        <td>{student.id}</td>
-                      </tr>
-                    )}
-                    <tr>
-                      <td>Department</td>
-                      <td>{student.branch}</td>
-                    </tr>
-                    <tr>
-                      <td>Gender</td>
-                      <td>{student.gender}</td>
-                    </tr>
-                    <tr>
-                      <td>Mobile Number</td>
-                      <td>
-                        <input type="number" onChange={_handleMobile} />
-                      </td>
-                    </tr>
-                    <tr>
-                      <td>Parent Mobile Number</td>
-                      <td>
-                        <input type="number" onChange={_handlePMobile} />
-                      </td>
-                    </tr>
-                    <tr>
-                      <td>No. of people attending (including student)</td>
-                      <td>
-                        <select onChange={_handlePeople}>
-                          <option value="1">1</option>
-                          <option value="2">2</option>
-                          <option value="3">3</option>
-                          <option value="4">4</option>
-                        </select>
-                        {
-                          people==="other" && <input type="number" onChange={_handleOtherPeople} />
-                        }
-                      </td>
-                    </tr>
-                  </table>
-                </div>
-              </div>
-              {!success && parent !== "" && mobile != "" && count !== 0 && (
-                <button onClick={execute}>Submit</button>
-              )}
-              <br />
-              {success && (
-                <div
-                  style={{
-                    "max-width": "400px",
-                    margin: "20px auto",
-                  }}
-                >
-                  <p>Registration Sucessfull!!</p>
-                </div>
-              )}
-            </div>
-          )}
+
         </div>
       </div>
     </div>
